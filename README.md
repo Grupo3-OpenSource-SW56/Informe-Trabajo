@@ -93,6 +93,36 @@
         <td>Rodrigo Jesús Salvador Rodríguez - U202213646</td>
         <td>Implementación de la Entrevista 2</td>
     </tr>
+  <tr>
+        <td>1.8</td>
+        <td>05/09/2024</td>
+        <td>Piero Alonso Martinez Villanueva - U202113821</td>
+        <td>Creación del logo del servicio</td>
+    </tr>
+  <tr>
+        <td>1.9</td>
+        <td>05/09/2024</td>
+        <td>Piero Alonso Martinez Villanueva - U202113821</td>
+        <td>Realización de General Style Guidelines</td>
+    </tr>
+  <tr>
+        <td>1.10</td>
+        <td>05/09/2024</td>
+        <td>Piero Alonso Martinez Villanueva - U202113821</td>
+        <td>Realización de Web Style Guidelines</td>
+    </tr>
+  <tr>
+        <td>1.11</td>
+        <td>05/09/2024</td>
+        <td>Piero Alonso Martinez Villanueva - U202113821</td>
+        <td>Realización de Information Architecture</td>
+    </tr>
+  <tr>
+        <td>1.12</td>
+        <td>05/09/2024</td>
+        <td>Piero Alonso Martinez Villanueva - U202113821</td>
+        <td>Implementación de Entrevista 4</td>
+    </tr>
 </table>
 
 # <font color="red">**Project Report Collaboration Insights**</font>
