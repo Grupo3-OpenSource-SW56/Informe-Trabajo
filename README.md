@@ -745,7 +745,7 @@ Para este apartado se realizará el análisis dividida entre los dos segmentos.
 
 ### **2.3.2. User Task Matrix**
 
-User Persona: 
+User Persona: Daniel Gonzalez
 
 | Tareas |    Objetivos de las tareas  | Soporte de EcoRoute |
 | :--: | :-----------: | :--: |
@@ -755,7 +755,7 @@ User Persona:
 |  Analizar impacto ambiental    |  Reducir el impacto ambiental de la cadena de suministro.    |    Proporciona reportes claros sobre la huella de carbono y otras métricas ambientales      |
 |  Tomar decisiones basadas en datos    |  Aumentar la eficiencia y reducir costos operativos.   |   EcoRoute proporciona datos en tiempo real y visualizaciones intuitivas para tomar decisiones informadas.       |
 
-User Persona: 
+User Persona: Laura Martinez
 
 | Tareas |    Objetivos de las tareas  | Soporte de EcoRoute |
 | :--: | :-----------: | :--: |
