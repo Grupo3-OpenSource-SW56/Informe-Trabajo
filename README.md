@@ -661,7 +661,22 @@ Posicionar a EcoRoute como no solo una solución sostenible, sino también una h
 - ¿Cuáles son las principales marcas o influencias que considera al evaluar soluciones de gestión logística?
 
 ### **2.2.2. Registro de entrevistas**
+**Segmento objetivo: Empresas de Logística y Transporte** 
+\
+Nombre: Ricardo Reyes \
+Edad: 26 \
+Ocupación: Jefe de Operaciones \
+![image](imgs/entrevista-1.png)
+\
+[Entrevista]()
+\
+**Informe:**
+\
+Ricardo Reyes, de 26 años, lleva dos años como jefe de operaciones en su empresa de logística y transporte, donde ha enfrentado desafíos en la coordinación entre almacenes y transporte, especialmente en áreas alejadas. Aunque la sostenibilidad es importante, encontrar el equilibrio con los costos sigue siendo difícil. Actualmente, utilizan un sistema de gestión de transporte (TMS), un sistema de gestión de almacenes (WMS) y GPS para el seguimiento de vehículos, aunque Ricardo desearía que estas herramientas fueran más intuitivas y fáciles de integrar. La empresa mide la eficiencia en términos de puntualidad de entregas y costos por viaje, mientras que en el aspecto ambiental monitorean el consumo de combustible y las emisiones. La visibilidad en tiempo real es clave para evitar retrasos y mejorar la coordinación, y Ricardo considera que una plataforma más sencilla de usar, con mejor integración y soporte técnico rápido, sería ideal para su equipo.
+
 ### **2.2.3. Análisis de entrevistas**
+
+**Segmento objetivo: Empresas de Logística y Transporte** 
 
 ## **2.3. Needfinding**
 ### **2.3.1. User Personas**
