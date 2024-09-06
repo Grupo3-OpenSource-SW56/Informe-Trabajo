@@ -1405,6 +1405,9 @@ EcoRoute es una plataforma que optimiza las cadenas de suministro con un enfoque
 - **Innovación Tecnológica:** Se refleja en la tipografía moderna y la interfaz minimalista.
 - **Confiabilidad:** Elementos visuales claros y estructurados que transmiten confianza.
 
+#### Logo del servicio
+<p align="center"><img src="imgs/EcoRoute-Logo.png"></p> 
+
 #### Typography
 La elección de la tipografía es clave para la legibilidad y percepción del usuario. Se han seleccionado fuentes que equilibren modernidad y claridad, con una jerarquía tipográfica bien definida:
 - **Títulos y Encabezados** <br>
