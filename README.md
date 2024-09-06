@@ -744,7 +744,32 @@ Para este apartado se realizará el análisis dividida entre los dos segmentos.
 <img src="imgs/user-personas/user-persona.Empresa-Logistica.png" alt="User Persona" style="width:100%;">
 
 ### **2.3.2. User Task Matrix**
+
+User Persona: 
+
+| Tareas |    Objetivos de las tareas  | Soporte de EcoRoute |
+| :--: | :-----------: | :--: |
+|  Evaluar la eficiencia de proveedores   | Mejorar la calidad y eficiencia en la cadena de suministro.    |  Proporciona análisis detallados del rendimiento y sostenibilidad de proveedores.    |
+|  Supervisar operaciones logísticas      | Optimizar rutas y tiempos de entrega para reducir costos.   |   Ofrece monitoreo en tiempo real de las operaciones con sugerencias para mejoras    |
+| Integrar sistemas antiguos  | Asegurar que todas las plataformas logísticas trabajen en conjunto.    |     EcoRoute se integra fácilmente con sistemas existentes para unificar datos       |
+|  Analizar impacto ambiental    |  Reducir el impacto ambiental de la cadena de suministro.    |    Proporciona reportes claros sobre la huella de carbono y otras métricas ambientales      |
+|  Tomar decisiones basadas en datos    |  Aumentar la eficiencia y reducir costos operativos.   |   EcoRoute proporciona datos en tiempo real y visualizaciones intuitivas para tomar decisiones informadas.       |
+
+User Persona: 
+
+| Tareas |    Objetivos de las tareas  | Soporte de EcoRoute |
+| :--: | :-----------: | :--: |
+|  Medir impacto ambiental de proveedores   | Cumplir con estándares de sostenibilidad y mejorar la cadena de valor.    |  EcoRoute evalúa y reporta el impacto ambiental de cada proveedor.   |
+|  Generar reportes de sostenibilidad      | Facilitar la comunicación interna y externa sobre logros ambientales.   |   Ofrece plantillas y datos integrados para la elaboración de informes claros y precisos    |
+| Colaborar con otros departamentos | Alinear estrategias de sostenibilidad con las operaciones generales.   |     Integra datos de diferentes áreas para facilitar la colaboración y el alineamiento de objetivos.     |
+| Implementar estrategias de reducción de carbono    |  Disminuir la huella ambiental y cumplir metas de reducción de CO2.    |  Proporciona recomendaciones específicas para reducir emisiones y optimizar procesos.     |
+|  Monitorear cumplimiento normativo    |  Asegurar que la empresa cumple con las regulaciones ambientales.   |  EcoRoute ofrece alertas y reportes de cumplimiento regulatorio en tiempo real.    |
+
+
 ### **2.3.3. User Journey Mapping**
+
+<img src="imgs/JourneyMapping.png" alt="Journey Mapping" style="width:100%;">
+
 ### **2.3.4. Empathy Mapping**
 **Segmento 1:** Empresas de Manufactura.  
 <img src="imgs/empathy-map/manufactura.png" alt="User Persona" style="width:100%;">
