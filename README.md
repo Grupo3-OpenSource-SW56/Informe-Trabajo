@@ -744,7 +744,7 @@ Edad: 26 \
 Ocupación: Jefe de Operaciones \
 ![image](imgs/entrevista-1.png)
 \
-[Entrevista]()
+[Entrevista](https://drive.google.com/file/d/156n7R81Imjf-ZzFIZ4j2PNuL7W0hYaNs/view?usp=sharing)
 \
 **Informe:**
 \
