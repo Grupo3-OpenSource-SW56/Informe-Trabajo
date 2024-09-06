@@ -707,7 +707,7 @@ Posicionar a EcoRoute como no solo una solución sostenible, sino también una h
 - ¿Cuáles son las principales marcas o influencias que considera al evaluar soluciones de gestión logística?
 
 ### **2.2.2. Registro de entrevistas**
-**Segmento objetivo: Empresas de Logística y Transporte** 
+#### **Segmento objetivo: Empresas de Logística y Transporte** 
 \
 Nombre: Ricardo Reyes \
 Edad: 26 \
@@ -727,13 +727,32 @@ Ricardo Reyes, de 26 años, lleva dos años como jefe de operaciones en su empre
 |<img width="1292" src="imgs/Entrevistado1.png">|Cuenta con 2 años trabajando como Gerente de Operaciones en desafíos de Logística, sostenibilidad y tecnología en su empresa. Considera que los desafíos en su empresa serían gestión de costos, escasez de conductores y interrupciones en la cadena de suministro. El uso de un sistema de gestión de transporte y plataforma en tiempo real sería una herramienta perfecta para la gestión de su empresa. Considera como sus frustraciones la falta de compañerismo e integración en procesos actuales y tiene como expectativas el soporte rápido y efectiva capacitación en nuevas herramientas logísticas.  |
 |Timing: 0:00-4:58 |URL: [upc-pre-202402-si729-SW56-Entrevista-1](https://youtu.be/WK_FgSXLd3U)|
 
+#### **Segmento objetivo: Empresas de Manufactura** 
+|Entrevistado 4|Renzo Martinez|
+|-|-|
+|Edad|25|
+|Ciudad|Lima|
+|<img width="1292" src="imgs/Entrevistado4.png">| Renzo Martínez, supervisor de planta en Rango Sport S.A.C. con 5 años de experiencia, enfrenta desafíos como la escasez de materiales, retrasos en los envíos y costos crecientes. La sostenibilidad es clave para la empresa, con auditorías y revisiones a proveedores cada 6 meses. Actualmente, utilizan SAP y Excel para gestionar la cadena de suministro, pero buscan una solución integrada y fácil de usar que ofrezca mejores análisis de datos. Sus objetivos incluyen mejorar la eficiencia, reducir costos y aumentar la sostenibilidad mediante la automatización de procesos. Renzo utiliza dispositivos móviles y correo electrónico a diario, y espera que una nueva plataforma ofrezca soporte técnico experto y recursos en línea. |
+|Timing: 0:00-7:27 |URL: [upc-pre-202402-si729-SW56-Entrevista-4](https://youtu.be/41P4xFNYn6c)|
+
 ### **2.2.3. Análisis de entrevistas**
 
 Para este apartado se realizará el análisis dividida entre los dos segmentos. 
 
-**Segmento objetivo: Empresas de Logística y Transporte** 
+#### **Segmento objetivo: Empresas de Logística y Transporte**
+  
 
-**Segmento objetivo: Empresas de Manufactura** 
+#### **Segmento objetivo: Empresas de Manufactura**
+**Entrevistado: Renzo Martinez.**
+- Se enfrenta a problemas con la escasez de materiales y retrasos en los envíos. La aplicación solucionará esto con una función de monitoreo en tiempo real del inventario y enviará notificaciones automáticas sobre retrasos en los envíos.
+
+- La sostenibilidad es crucial para la empresa. Para abordarlo, la aplicación incluirá herramientas para auditar la sostenibilidad de los proveedores y medir indicadores ambientales, como reducción de residuos y eficiencia energética.
+
+- Las herramientas actuales presentan limitaciones en integración y análisis de datos. La aplicación se integrará con SAP y Excel, permitirá la sincronización automática de datos y ofrecerá una interfaz para informes detallados y análisis predictivo.
+
+- Se busca una mejora en la capacitación y el soporte técnico. La aplicación proporcionará soporte técnico en tiempo real y recursos de capacitación interactivos para facilitar una rápida adopción.
+
+- Existen frustraciones debido a la falta de comunicación y coordinación con socios externos. La aplicación implementará una plataforma de colaboración en tiempo real y un sistema de alertas automáticas para mejorar la comunicación y asegurar el cumplimiento de plazos.
 
 ## **2.3. Needfinding**
 ### **2.3.1. User Personas**
