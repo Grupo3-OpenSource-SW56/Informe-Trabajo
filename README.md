@@ -1515,7 +1515,7 @@ Para este Sprint 1 nos hemos tratado de enfocar en los task generales para la el
         <tr>
             <td>Atendees (to planning meeting)</td>
             <td>
-                Alejandro Pachas, Alejandro Barturen, Piero Martinez, José Chirito, Rodrigo Salvador
+                Alejandro Pachas, Alejandro Barturen, Piero Martinez, Rodrigo Salvador
             </td>
         </tr>
         <tr>
@@ -1628,7 +1628,7 @@ Para esta entrega se distribuyeron las 5 primeras user stories que hemos decidid
         <td>Chat Personal</td>
         <td>Integrar un chat de comunicación interna donde los usuarios puedan comunicarse de forma efectiva.</td>
         <td>4</td>
-        <td>José Chirito</td>
+        <td>Piero Martinez</td>
         <td>To-Do</td>
     </tr>
   </thead>
