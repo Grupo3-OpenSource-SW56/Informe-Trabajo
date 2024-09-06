@@ -1567,14 +1567,24 @@ Get In Touch Section:
 <img src="imgs/wireframes/getintouch.png" alt="Page Section" style="width:100%;">
 
 ### **4.3.2. Landing Page Mock-up**
+<p align="center"> <img src="imgs/LandingMockUp.png"> </p>
 
 ## **4.4. Web Applications UX/UI Design**
 ### **4.4.1. Web Applications Wireframes**
+<p align="center"> <img src="imgs/WebApplicationWireframe.png"> </p>
+
 ### **4.4.2. Web Applications Wireflow Diagrams**
+<p align="center"> <img src="imgs/WebApplicationWireflow.png"> </p>
+
 ### **4.4.3. Web Applications Mock-ups**
+<p align="center"> <img src="imgs/WebMockUp.png"> </p>
+
 ### **4.4.4. Web Applications User Flow Diagrams**
+<p align="center"> <img src="imgs/WebUserFlow.png"> </p>
 
 ## **4.5. Web Applications Prototyping**
+
+<p align="center"> <img src="imgs/WebPrototyping.png"> </p>
 
 ## **4.6. Domain-Driven Software Architecture**
 
@@ -1589,13 +1599,18 @@ El Domain Driven Design (DDD) busca crear un entendimiento común del dominio qu
 <img src="imgs/softwarearchitecturecontainerdiagrams.png" alt="Software Architecture Container Diagrams" style="width:100%;">
 
 ### **4.6.3. Software Architecture Components Diagrams**
+<p align="center"> <img src="imgs/ComponentDiagram.png"> </p>
 
 ## **4.7. Software Object-Oriented Design**
 ### **4.7.1. Class Diagrams**
+<p align="center"> <img src="imgs/ClassDiagram.png"> </p>
+
 ### **4.7.2. Class Dictionary**
+Según el diagrama de clases, aquí se presenta el significado de cada clase y atributo:
 
 ## **4.8. Database Design**
 ### **4.8.1. Database Diagram**
+<p align="center"> <img src="imgs/DataBaseDiagram.png"> </p>
 
 # <font color="red">**Capítulo V: Product Implementation, Validation & Deployment**</font>
 
@@ -2114,55 +2129,191 @@ Para esta entrega se distribuyeron las 5 primeras user stories que hemos decidid
 
 Link del trello: https://trello.com/invite/b/66650f7cdb0183dfa4f57b32/ATTI78cc5b185caf54a6142efb039d2abd4eF07A3C5B/sprint-backlog-1
 
-
 ### **5.2.1.3. Development Evidence for Sprint Review**
+La evidencia del desarrollo del sprint refleja el progreso alcanzado en la implementación de las funcionalidades planificadas, asegurando que los objetivos establecidos fueran cumplidos de manera efectiva. Se trabajó en optimizar cada componente, garantizando una alineación con los requerimientos del proyecto. A continuación, se presentan capturas de pantalla que documentan los avances realizados durante el sprint.
+
+<p align="center"> <img src="imgs/DevelopmentEvidence1.png"> </p>
+
+<p align="center"> <img src="imgs/DevelopmentEvidence2.png"> </p>
+
+<p align="center"> <img src="imgs/DevelopmentEvidence3.png"> </p>
+
 ### **5.2.1.4. Testing Suite Evidence for Sprint Review**
+Debido a la falta de clases y las relaciones entre ellas, ni las pruebas de unidad ni las pruebas de integración se han generado para este sprint 1. Sin embargo, si se pueden realizar pruebas de aceptación para los requisitos planteados.
+
+### US01
+ ```gherkin
+Feature: Solicitud de Información
+
+  Scenario: Envío exitoso de mensaje
+    Given Soy un visitante de la landing page
+    When Ingreso mi información y pregunta en el formulario de contacto
+    And Envío el mensaje
+    Then La información es enviada correctamente a los desarrolladores
+
+    Examples:
+      | Información           | Pregunta               |
+      | "Juan Pérez, email@ejemplo.com" | "¿Cómo puedo beneficiarme con esta plataforma?" |
+      | "Ana López, ana@correo.com"    | "¿Cuáles son los planes de precios?"              |
+
+  Scenario: Error en el envío de la información
+    Given Soy un visitante de la landing page
+    When Ingreso mi información y pregunta en el formulario de contacto
+    And Intento enviar el mensaje
+    Then Recibo un mensaje de error y se me sugiere intentar de nuevo más tarde
+
+    Examples:
+      | Información           | Pregunta               |
+      | "Pedro Martínez, pedro@correo.com" | "¿Hay una versión demo?"              |
+      | "María Gómez, maria@correo.com"   | "¿Cuál es el soporte técnico?"        |
+
+ ```
+
+### US02
+ ```gherkin
+Feature: Acceso rápido a información clave
+
+  Scenario: Encontrar rápidamente información clave
+    Given Estoy en la landing page
+    When Navego por la página
+    Then Veo los puntos destacados en la parte superior
+
+    Examples:
+      | Sección                |
+      | "Beneficios de la plataforma" |
+      | "Características principales" |
+
+  Scenario: No encuentro información clave
+    Given Estoy en la landing page
+    When Navego por la página
+    Then No puedo encontrar los puntos destacados
+
+    Examples:
+      | Sección                |
+      | "Sección no disponible" |
+      | "Enlace roto"           |
+
+ ```
+
+### US03
+ ```gherkin
+Feature: Redirección a la plataforma
+
+  Scenario: Redirección exitosa a la plataforma
+    Given Estoy en la landing page
+    When Hago clic en el logo de la plataforma
+    Then Soy redirigido a la página de inicio de la plataforma
+
+    Examples:
+      | Enlace                  |
+      | "Logo de la plataforma"  |
+      | "Botón 'Ir a la plataforma'" |
+
+  Scenario: Error en la redirección
+    Given Estoy en la landing page
+    When Hago clic en un enlace roto o inactivo
+    Then Recibo un mensaje de error y se me sugiere intentar de nuevo más tarde o contactar al soporte
+
+    Examples:
+      | Enlace                  |
+      | "Logo inactivo"          |
+      | "Botón 'Ir a la plataforma' roto" |
+
+
+ ```
+
+### US06
+ ```gherkin
+Feature: Alertas de Inventario Bajo
+
+  Scenario: Alerta de inventario bajo
+    Given Hay un nivel mínimo de inventario definido
+    When El stock cae por debajo de este nivel
+    Then Se envía automáticamente una alerta
+
+    Examples:
+      | Producto       | Nivel mínimo |
+      | "Producto A"   | 100 unidades |
+      | "Producto B"   | 50 unidades  |
+
+  Scenario: Confirmación de recepción de la alerta
+    Given He recibido una alerta de inventario bajo
+    When Abro la notificación
+    Then Confirmo que he recibido la alerta y tomo acción
+
+    Examples:
+      | Producto       | Acciones tomadas         |
+      | "Producto A"   | "Reordenar stock"        |
+      | "Producto B"   | "Aumentar producción"    |
+
+ ```
+
+### US08
+ ```gherkin
+Feature: Chat de Comunicación Interna
+
+  Scenario: Acceso y uso del chat
+    Given Estoy en la plataforma
+    When Accedo al chat
+    Then Puedo enviar y recibir mensajes en tiempo real a cualquier miembro de la empresa
+
+    Examples:
+      | Usuario        | Mensaje                 |
+      | "Gerente A"    | "Reunión mañana a las 10" |
+      | "Empleado B"   | "Necesito más materiales" |
+
+  Scenario: Notificaciones de nuevos mensajes
+    Given Estoy fuera del chat
+    When Recibo un nuevo mensaje
+    Then Recibo una notificación en la plataforma
+
+    Examples:
+      | Usuario        | Notificación             |
+      | "Gerente A"    | "Nuevo mensaje de la sala de producción" |
+      | "Empleado B"   | "Nuevo mensaje del supervisor"           |
+
+ ```
+
 ### **5.2.1.5. Execution Evidence for Sprint Review**
+Durante el primer sprint se trabajó en el diseño y desarrollo de la Landing Page, enfocándose en una interfaz atractiva y funcional que facilite la navegación y comprensión del servicio. Se priorizó la usabilidad y claridad del contenido para mejorar la experiencia del usuario. A continuación, se muestran capturas de pantalla como evidencia del avance logrado en esta etapa.
+
+<p align="center"> <img src="imgs/ExecutionEvidence1.png"> </p>
+
+<p align="center"> <img src="imgs/ExecutionEvidence2.png"> </p>
+
+<p align="center"> <img src="imgs/ExecutionEvidence3.png"> </p>
+
 ### **5.2.1.6. Services Documentation Evidence for Sprint Review**
+> [!NOTE]
+> No aplica para esta entrega.
+
 ### **5.2.1.7. Software Deployment Evidence for Sprint Review**
+La evidencia del correcto despliegue de la landing page se presenta a través de una serie de capturas de pantalla que muestran el proceso completo, desde la configuración inicial hasta la publicación final, asegurando que todos los componentes funcionan conforme a lo planificado. Estas imágenes documentan paso a paso la implementación y validación del despliegue, garantizando una experiencia óptima para los usuarios.
+
+<p align="center"> <img src="imgs/SoftwareDeploymentEvidence1.png"> </p>
+
+<p align="center"> <img src="imgs/SoftwareDeploymentEvidence2.png"> </p>
+
+<p align="center"> <img src="imgs/SoftwareDeploymentEvidence3.png"> </p>
+
 ### **5.2.1.8. Team Collaboration Insights during Sprint**
+Durante este sprint se llevó a cabo la implementación de la landing page. Los miembros del equipo contribuyeron activamente al proyecto, realizando sus aportes mediante commits registrados en la herramienta GitHub, lo que permitió un trabajo colaborativo eficiente y controlado en el desarrollo del sprint. A continuación, se presenta capturas de pantalla del mismo:
 
-## **5.2.2. Sprint 2**
-### **5.2.2.1. Sprint Planning 2**
-### **5.2.2.2. Sprint Backlog 2**
-### **5.2.2.3. Development Evidence for Sprint Review**
-### **5.2.2.4. Testing Suite Evidence for Sprint Review**
-### **5.2.2.5. Execution Evidence for Sprint Review**
-### **5.2.2.6. Services Documentation Evidence for Sprint Review**
-### **5.2.2.7. Software Deployment Evidence for Sprint Review**
-### **5.2.2.8. Team Collaboration Insights during Sprint**
+<p align="center"> <img src="imgs/Colaborattion1.png"> </p>
 
-## **5.2.3. Sprint 3**
-### **5.2.3.1. Sprint Planning 3**
-### **5.2.3.2. Sprint Backlog 3**
-### **5.2.3.3. Development Evidence for Sprint Review**
-### **5.2.3.4. Testing Suite Evidence for Sprint Review**
-### **5.2.3.5. Execution Evidence for Sprint Review**
-### **5.2.3.6. Services Documentation Evidence for Sprint Review**
-### **5.2.3.7. Software Deployment Evidence for Sprint Review**
-### **5.2.3.8. Team Collaboration Insights during Sprint**
+<p align="center"> <img src="imgs/Colaborattion2.png"> </p>
 
-## **5.2.4. Sprint 4**
-### **5.2.4.1. Sprint Planning 4**
-### **5.2.4.2. Sprint Backlog 4**
-### **5.2.4.3. Development Evidence for Sprint Review**
-### **5.2.4.4. Testing Suite Evidence for Sprint Review**
-### **5.2.4.5. Execution Evidence for Sprint Review**
-### **5.2.4.6. Services Documentation Evidence for Sprint Review**
-### **5.2.4.7. Software Deployment Evidence for Sprint Review**
-### **5.2.4.8. Team Collaboration Insights during Sprint**
+<p align="center"> <img src="imgs/Colaborattion3.png"> </p>
 
-## **5.3. Validation Interviews**
-### **5.3.1. Diseño de Entrevistas**
-### **5.3.2. Registro de Entrevistas**
-### **5.3.3. Evaluaciones según heurísticas**
-
-## **5.4. Video About-the-Product**
-
-# **Conclusiones**
 # **Conclusiones y recomendaciones**
+El primer sprint de EcoRoute ha sido un paso crucial en la construcción de nuestra plataforma para optimizar cadenas de suministro sostenibles. Durante esta fase, el equipo se centró en el desarrollo de la landing page, que ha permitido establecer una base sólida para la presentación y promoción de la aplicación. A partir del trabajo realizado hasta ahora, se han identificado dos puntos clave:
+-  La implementación de la landing page ha demostrado ser un componente efectivo para captar el interés de los usuarios y proporcionar información esencial sobre la aplicación. Esta etapa ha permitido validar el diseño y la funcionalidad básica, asegurando que los visitantes puedan acceder fácilmente a la información y entender el propósito de EcoRoute.
+- El proceso de integración continua mediante commits en GitHub ha facilitado una colaboración eficiente entre los miembros del equipo, asegurando que las actualizaciones y mejoras se realicen de manera ordenada y efectiva. Este enfoque ha sido fundamental para mantener la calidad y la coherencia del desarrollo.
 
-# **Video About-the-Team**
+Con base en el progreso logrado hasta el momento, se pueden hacer las siguientes recomendaciones para avanzar en los próximos sprints y abordar los aspectos restantes del proyecto:
+- Continuar con el desarrollo de la landing page, asegurando que se integre de manera efectiva con la plataforma completa. Es importante optimizar la navegación y la experiencia del usuario, incorporando funcionalidades adicionales que permitan una transición fluida hacia la plataforma de EcoRoute.
+- Implementar una serie de pruebas rigurosas para evaluar el rendimiento y la funcionalidad de la landing page. Esto incluirá pruebas de usabilidad, carga y seguridad para garantizar que la página cumpla con los estándares de calidad y brinde una experiencia de usuario satisfactoria.
+- Establecer un plan detallado para la integración de características adicionales en la plataforma, como la gestión de inventarios y la optimización de rutas. Este plan debe incluir cronogramas claros y asignación de recursos para asegurar que se aborden todas las funcionalidades previstas de manera efectiva.
 
 # **Bibliografía**
 
@@ -2173,7 +2324,8 @@ Marin, H. M. (2022, 23 junio). “Uno de los grandes desafíos es reducir la bre
 Condiciones de vida en el Perú: impacto económico de los servicios de cuidado infantil. (2021). En Instituto Nacional de Estadística E Informática (INEI). Recuperado 22 de agosto de 2024, de https://www.inei.gob.pe
 
 
-
 # **Anexos**
-
+> [!NOTE]
+> ANEXO A
+> Video de Exposición del TB1: link
 
