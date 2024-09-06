@@ -1323,6 +1323,17 @@ El sistema de navegación está diseñado para ser intuitivo y eficiente, permit
 
 ## **4.3. Landing Page UI Design**
 ### **4.3.1. Landing Page Wireframe**
+
+**Desktop Wireframe** 
+Home Section:
+<img src="imgs/wireframes/home.png" alt="Page Section" style="width:100%;">
+Subcription Section:  
+<img src="imgs/wireframes/subscriptions.png" alt="Page Section" style="width:100%;">
+About Us Section:  
+<img src="imgs/wireframes/aboutus.png" alt="Page Section" style="width:100%;">
+Get In Touch Section:  
+<img src="imgs/wireframes/getintouch.png" alt="Page Section" style="width:100%;">
+
 ### **4.3.2. Landing Page Mock-up**
 
 ## **4.4. Web Applications UX/UI Design**
