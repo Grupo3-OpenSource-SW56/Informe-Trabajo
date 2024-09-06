@@ -24,9 +24,8 @@
 | Barturen Guzman, Alejandro Nicolas     | U202214406    |
 | Pachas Chavez, Alejandro Alberto       | U201917598    |
 | Martinez Villanueva, Piero Alonso      | U202113821    |
-|      |     |
-|               |      |
-|           |      |
+| Salvador Rodríguez, Rodrigo Jesús      |  U202213646    |
+
 
 
 
@@ -70,6 +69,30 @@
     <td>Alejandro Nicolás Barturen Guzmán - U202214406</td>
     <td>Implementacion de la entrevista 1</td>
   </tr>
+   <tr>
+        <td>1.4</td>
+        <td>31/08/2024</td>
+        <td>Rodrigo Jesús Salvador Rodríguez - U202213646</td>
+        <td>Implementación del User Persona e Impact Mapping</td>
+    </tr>
+   <tr>
+        <td>1.5</td>
+        <td>01/09/2024</td>
+        <td>Rodrigo Jesús Salvador Rodríguez - U202213646</td>
+        <td>Implementación del Product Backlog y su entrevista</td>
+    </tr>
+   <tr>
+        <td>1.6</td>
+        <td>02/09/2024</td>
+        <td>Rodrigo Jesús Salvador Rodríguez - U202213646</td>
+        <td>Realización del Sprint Planning 1 y Sprint Backlog 1</td>
+    </tr>
+  <tr>
+        <td>1.7</td>
+        <td>05/09/2024</td>
+        <td>Rodrigo Jesús Salvador Rodríguez - U202213646</td>
+        <td>Implementación de la Entrevista 3</td>
+    </tr>
 </table>
 
 # <font color="red">**Project Report Collaboration Insights**</font>
@@ -240,7 +263,7 @@ Visión: EcoRoute será una de las principales causas en la reducción de la con
 
 ## **1.2. Solution Profile**
 
-Product Name: EcoRoute  \
+Product Name:  **EcoRoute**   \
 Product Description:  \
 Monetización: EcoRoute funciona mediante un modelo de suscripción mensual, con una prueba gratuita en el Plan Básico de 10 días para que los nuevos usuarios puedan conocer cómo funciona el producto. Hay tres planes de suscripción disponibles para que el usuario sea libre de elegir el que mejor se acomode a sus necesidades. 
 - Plan Básico: Evaluación de proveedores y gestión básica de la cadena de suministro. 
@@ -366,25 +389,33 @@ ambientales locales e internacionales \
 
 ### **1.2.2.3. Lean UX Hypothesis Statements**
 
-- **Hypothesis Statement 01:**
-Creemos que al proporcionar herramientas integradas para evaluar proveedores y gestionar el impacto ambiental, las empresas podrán reducir significativamente su huella ecológica y mejorar la eficiencia de su cadena de suministro.
-Sabremos que esta hipótesis es correcta si observamos una reducción considerable en las emisiones de carbono y un aumento en la eficiencia operativa dentro de los primeros seis meses de implementación en empresas piloto.
-Cuando implementemos la plataforma en un grupo de empresas seleccionadas para monitorear y analizar los resultados.
+- **Hypothesis Statement 01:**\
+**Creemos que** al proporcionar herramientas integradas para evaluar proveedores y gestionar el impacto ambiental, las empresas podrán reducir significativamente su huella ecológica y mejorar la eficiencia de su cadena de suministro.
+\
+**Sabremos que** esta hipótesis es correcta si observamos una reducción considerable en las emisiones de carbono y un aumento en la eficiencia operativa dentro de los primeros seis meses de implementación en empresas piloto.
+\
+**Cuando** implementemos la plataforma en un grupo de empresas seleccionadas para monitorear y analizar los resultados.
 
-- **Hypothesis Statement 02:**
-Creemos que la capacidad de integrar EcoLogix con los sistemas existentes de las empresas (como ERP y CRM) permitirá una adopción más rápida y una mejora en la gestión de la cadena de suministro.
-Sabremos que esta hipótesis es correcta si el 80% de las empresas que usan la integración informan una reducción en el tiempo necesario para gestionar la cadena de suministro y una disminución en los errores operativos.
-Cuando realicemos una fase de prueba con empresas que integren EcoLogix con sus sistemas actuales y evaluemos los resultados en un período de tres meses.
+- **Hypothesis Statement 02:**\
+**Creemos que** la capacidad de integrar EcoLogix con los sistemas existentes de las empresas (como ERP y CRM) permitirá una adopción más rápida y una mejora en la gestión de la cadena de suministro.
+  \
+**Sabremos que** esta hipótesis es correcta si el 80% de las empresas que usan la integración informan una reducción en el tiempo necesario para gestionar la cadena de suministro y una disminución en los errores operativos.
+  \
+**Cuando** realicemos una fase de prueba con empresas que integren EcoLogix con sus sistemas actuales y evaluemos los resultados en un período de tres meses.
 
-- **Hypothesis Statement 03:**
-Creemos que la función de análisis de impacto ambiental proporcionará a las empresas datos precisos y útiles para tomar decisiones más sostenibles y responsables.
-Sabremos que esta hipótesis es correcta si las empresas que utilizan el análisis de impacto informan una mejora en la toma de decisiones y un alineamiento más cercano con sus objetivos de sostenibilidad.
-Cuando implementemos la funcionalidad en empresas y recojamos feedback sobre cómo estos datos están siendo utilizados para tomar decisiones.
+- **Hypothesis Statement 03:**\
+**Creemos que** la función de análisis de impacto ambiental proporcionará a las empresas datos precisos y útiles para tomar decisiones más sostenibles y responsables.
+  \
+**Sabremos** que esta hipótesis es correcta si las empresas que utilizan el análisis de impacto informan una mejora en la toma de decisiones y un alineamiento más cercano con sus objetivos de sostenibilidad.
+  \
+**Cuando** implementemos la funcionalidad en empresas y recojamos feedback sobre cómo estos datos están siendo utilizados para tomar decisiones.
 
-- **Hypothesis Statement 04:**
-Creemos que los informes detallados y las recomendaciones personalizadas de EcoLogix ayudarán a las empresas a identificar y corregir ineficiencias en su cadena de suministro de manera más efectiva.
-Sabremos que esta hipótesis es correcta si observamos una reducción del 10% en los costos operativos y una mejora del 25% en la optimización de rutas logísticas en las empresas que usan estos informes.
-Cuando implementamos la funcionalidad de informes y recomendaciones en empresas y monitoreamos los resultados a lo largo de un período de seis meses.
+- **Hypothesis Statement 04:**\
+**Creemos que** los informes detallados y las recomendaciones personalizadas de EcoLogix ayudarán a las empresas a identificar y corregir ineficiencias en su cadena de suministro de manera más efectiva.
+  \
+**Sabremos** que esta hipótesis es correcta si observamos una reducción del 10% en los costos operativos y una mejora del 25% en la optimización de rutas logísticas en las empresas que usan estos informes.
+  \
+**Cuando** implementamos la funcionalidad de informes y recomendaciones en empresas y monitoreamos los resultados a lo largo de un período de seis meses.
 
 ### **1.2.2.4. Lean UX Canvas**
 
@@ -392,6 +423,12 @@ Cuando implementamos la funcionalidad de informes y recomendaciones en empresas 
 ![image](imgs/lean-canvas.png)
 
 ## **1.3. Segmentos objetivo**
+
+En los últimos años, las empresas globales han intensificado sus esfuerzos para lograr operaciones más sostenibles y eficientes. Según un informe de Deloitte (2023), se estima que más del 70% de las empresas de manufactura en América del Norte y Europa están priorizando la sostenibilidad en sus operaciones, como respuesta a las crecientes regulaciones ambientales y la presión del mercado para reducir su huella de carbono. A nivel mundial, se proyecta que para 2030, el 40% de las compañías de manufactura adoptarán tecnologías avanzadas para la gestión de la cadena de suministro, lo que permitirá una reducción del 25% en costos operativos y un aumento significativo en la eficiencia logística.
+
+De manera similar, las empresas de logística y transporte están bajo una presión creciente para optimizar sus operaciones. Con el aumento de los costos de combustible y la necesidad urgente de reducir las emisiones de CO₂, se prevé que para 2025, el 60% de las compañías de logística en regiones clave como Asia y América del Sur invertirán en soluciones tecnológicas para mejorar la eficiencia en el uso de combustible y reducir el tiempo de inactividad de sus flotas. Esto se ve impulsado por la tendencia hacia el "transporte verde", una iniciativa que busca mitigar el impacto ambiental y que ya ha sido adoptada por más de la mitad de las principales compañías de transporte a nivel mundial.
+
+Los segmentos objetivos enfocados a este proyecto son los siguientes:
 <table>
   <tr>
     <td></td>
@@ -674,9 +711,20 @@ Ocupación: Jefe de Operaciones \
 \
 Ricardo Reyes, de 26 años, lleva dos años como jefe de operaciones en su empresa de logística y transporte, donde ha enfrentado desafíos en la coordinación entre almacenes y transporte, especialmente en áreas alejadas. Aunque la sostenibilidad es importante, encontrar el equilibrio con los costos sigue siendo difícil. Actualmente, utilizan un sistema de gestión de transporte (TMS), un sistema de gestión de almacenes (WMS) y GPS para el seguimiento de vehículos, aunque Ricardo desearía que estas herramientas fueran más intuitivas y fáciles de integrar. La empresa mide la eficiencia en términos de puntualidad de entregas y costos por viaje, mientras que en el aspecto ambiental monitorean el consumo de combustible y las emisiones. La visibilidad en tiempo real es clave para evitar retrasos y mejorar la coordinación, y Ricardo considera que una plataforma más sencilla de usar, con mejor integración y soporte técnico rápido, sería ideal para su equipo.
 
+|Entrevistado 2|Boris Dextre|
+|-|-|
+|Edad|25|
+|Ciudad|Huarmey|
+|<img width="1292" src="imgs/Entrevistado1.png">|Cuenta con 2 años trabajando como Gerente de Operaciones en desafíos de Logística, sostenibilidad y tecnología en su empresa. Considera que los desafíos en su empresa serían gestión de costos, escasez de conductores y interrupciones en la cadena de suministro. El uso de un sistema de gestión de transporte y plataforma en tiempo real sería una herramienta perfecta para la gestión de su empresa. Considera como sus frustraciones la falta de compañerismo e integración en procesos actuales y tiene como expectativas el soporte rápido y efectiva capacitación en nuevas herramientas logísticas.  |
+|Timing: 0:00-4:58 |URL: [upc-pre-202402-si729-SW56-Entrevista-1](https://youtu.be/WK_FgSXLd3U)|
+
 ### **2.2.3. Análisis de entrevistas**
 
+Para este apartado se realizará el análisis dividida entre los dos segmentos. 
+
 **Segmento objetivo: Empresas de Logística y Transporte** 
+
+**Segmento objetivo: Empresas de Manufactura** 
 
 ## **2.3. Needfinding**
 ### **2.3.1. User Personas**
@@ -1210,7 +1258,63 @@ Ricardo Reyes, de 26 años, lleva dos años como jefe de operaciones en su empre
   </tr>
 </tbody></table>
 ## **3.3. Impact Mapping**
+
+![image](imgs/ImpactMapping1.png)
+
+![image](imgs/ImpactMapping2.png)
+
 ## **3.4. Product Backlog**
+
+| # Orden | User Story ID | Título | Descripción| Story Points |
+|:-:|:-:|-|:-|:-:|
+|1|US03|Redirección a la Plataforma|**Como** visitante de la landing page **Quiero** un enlace claro para acceder a la plataforma completa **Para** explorar todas las funcionalidades.|1|
+|2|US04|Análisis de Costos de Suministro|**Como** gerente de una Empresa de Manufactura **Quiero** acceder a gráficos de desempeño del suministro **Para** identificar tendencias que impactan en los costos.|2|
+|3|US05|Reporte de Impacto Ambiental de Proveedores|**Como** gerente de una Empresa de Manufactura **Quiero** recibir un reporte mensual del impacto ambiental de cada proveedor **Para** tomar decisiones de selección y descontinuación.|3|
+|4|US06|Alertas de Inventario Bajo|**Como** gerente de una Empresa de Manufactura **Quiero** recibir alertas cuando los niveles de inventario estén bajos **Para** evitar desabastecimientos críticos.|3|
+|5|US10|Control de Calidad Automático|**Como** gerente de una Empresa de Manufactura **Quiero** recibir notificaciones automáticas cuando se detecten desviaciones **Para** tomar medidas inmediatas de corrección.|3|
+|6|US11|Optimización de Procesos Productivos|**Como** gerente de una Empresa de Manufactura **Quiero** identificar procesos ineficientes en tiempo real **Para** mejorar el flujo de trabajo.|3|
+|7|US16|Estimación de demanda de inventario|**Como** gerente de una Empresa de Manufactura **Quiero** pronosticar la demanda de inventario **Para** planificar mejor las compras de materiales.|5|
+|8|US17|Sistema de Feedback de Empleados en Planta|**Como** gerente de una Empresa de Manufactura **Quiero** implementar un sistema de feedback de empleados en planta **Para** mejorar continuamente los procesos|3|
+|9|US18|Gestión de Recursos Humanos en Planta|**Como** gerente de una Empresa de Manufactura **Quiero** gestionar los recursos humanos en planta de manera eficiente **Para** maximizar la productividad.|5|
+|10|US19|Notificación de Desviaciones de Desempeño|**Como** gerente de una Empresa de Logística y Transporte **Quiero** recibir alertas cuando el rendimiento de un vehículo sea inferior al esperado **Para** tomar medidas correctivas inmediatas.|3|
+|11|US21|Monitoreo de Vehículos en Tiempo Real|**Como** gerente de una Empresa de Logística y Transporte **Quiero** monitorear en tiempo real la ubicación y estado de cada vehículo **Para** mejorar la eficiencia operativa.|3|
+|12|US27|Seguimiento de Paquetes en Tiempo Real|**Como** gerente de una Empresa de Logística y Transporte **Quiero** rastrear la ubicación de mi paquete en tiempo real **Para** saber cuándo llegará mi entrega.|3|
+|13|US28|Planificación de Entregas en Base a Prioridades|**Como** gerente de una Empresa de Logística y Transporte **Quiero** priorizar las entregas de alto valor o urgencia **Para** mejorar la satisfacción del cliente.|5|
+|14|US01|Solicitud de Información|**Como** visitante de la landing page **Quiero** solicitar información personalizada **Para** conocer cómo la plataforma puede beneficiar mi negocio.|5|
+|15|US02|Acceso Rápido a Información Clave|**Como** visitante de la landing page **Quiero** encontrar rápidamente información clave sobre la plataforma **Para** ahorrar tiempo.|3|
+|16|US07|Reportes de Oportunidades de Mejora|**Como** gerente de una Empresa de Manufactura **Quiero** recibir comunicados mensuales de oportunidades de mejora **Para** identificar y proponer acciones correctivas.|2|
+|17|US08|Chat de Comunicación Interna|**Como** gerente de una Empresa de Manufactura **Quiero** tener acceso a un chat de comunicación interna **Para** coordinar mejor con mis compañeros.|3|
+|18|US09|Gestión de Proveedores con Certificación Verde|**Como** gerente de una Empresa de Manufactura **Quiero** filtrar proveedores que tienen certificaciones ecológicas **Para** asegurarme de cumplir con los estándares de sostenibilidad.|5|
+|19|US12|Control de Desperdicio de Materiales|**Como** gerente de una Empresa de Manufactura **Quiero** monitorear el desperdicio de materiales **Para** minimizar pérdidas y mejorar la eficiencia.|5|
+|20|US13|Visualización de Desempeño de Proveedores|**Como** gerente de una Empresa de Manufactura **Quiero** visualizar el desempeño histórico de los proveedores **Para** tomar decisiones estratégicas sobre su continuidad.|2|
+|21|US14|Evaluación Comparativa de Proveedores|**Como** gerente de una Empresa de Manufactura **Quiero** comparar el desempeño de diferentes proveedores **Para** elegir aquellos que se alineen mejor con los objetivos de la empresa.|3|
+|22|US15|Sistema de Incentivos por Desempeño|**Como** gerente de una Empresa de Manufactura **Quiero** implementar un sistema de incentivos basado en el desempeño **Para** motivar a los empleados.|1|
+|23|US20|Informes de Rendimiento de Rutas|**Como** gerente de una Empresa de Logística y Transporte **Quiero** recibir informes detallados sobre el rendimiento de rutas **Para** optimizar el uso de recursos.|3|
+|24|US22|Comunicación Directa con Conductores|**Como** gerente de una Empresa de Logística y Transporte **Quiero** enviar mensajes directos a los conductores **Para** notificar cambios de ruta o instrucciones específicas.|3|
+|25|US23|Gestión de Mantenimiento Preventivo de Flotas|**Como** gerente de una Empresa de Logística y Transporte **Quiero** recibir alertas cuando un vehículo requiera mantenimiento preventivo **Para** evitar averías inesperadas.|3|
+|26|US24|Informes Personalizados para Clientes|**Como** gerente de una Empresa de Logística y Transporte **Quiero** generar informes personalizados de estado de entrega para los clientes **Para** mantenerlos informados.|2|
+|27|US25|Visualización de Consumo de Combustible|**Como** gerente de una Empresa de Logística y Transporte **Quiero** visualizar el consumo de combustible por vehículo **Para** identificar oportunidades de ahorro de energía.|5|
+|28|US26|Evaluación de Rendimiento de Conductores|**Como** gerente de una Empresa de Logística y Transporte **Quiero** recibir informes de evaluación del rendimiento de los conductores **Para** mejorar las políticas de capacitación y seguridad.|2|
+|29|US29|Verificación de Documentación de Conductores|**Como** gerente de una Empresa de Logística y Transporte **Quiero** verificar que todos los conductores tengan su documentación actualizada **Para** cumplir con las normativas legales y de seguridad.|5|
+|30|US30|Gestión de Horarios de Conductores|**Como** gerente de una Empresa de Logística y Transporte **Quiero** gestionar los horarios de los conductores **Para** asegurar el cumplimiento de las horas de trabajo y descanso.|2|
+|31|US31|Gestión de Reclamos de Clientes|**Como** gerente de una Empresa de Logística y Transporte **Quiero** gestionar los reclamos de clientes **Para** mejorar la satisfacción y fidelización.|3|
+|32|US32|Comparativa de Rendimiento entre Conductores|**Como** gerente de una Empresa de Logística y Transporte **Quiero** comparar el rendimiento de los conductores **Para** identificar y recompensar a los más eficientes.|2|
+|33|US33|Optimización de Rutas Dinámicas|**Como** gerente de una Empresa de Manufactura **Quiero** ajustar automáticamente las rutas en función del tráfico **Para** mejorar los tiempos de entrega.|3|
+|34|TS01|Post Organization|**Como** desarrollador de GreenSync **Quiero** registrar una nueva organización mediante una API **Para** visualizar las organizaciones afiliadas a nuestra aplicación.|3|
+|35|TS02|Get Organization|**Como** desarrollador de GreenSync **Quiero** obtener la información de una organización mediante una API **Para** mostrarla en la aplicación cuando se solicite.|3|
+|36|TS03|Post user|**Como** desarrollador de GreenSync **Quiero** registrar a un nuevo usuario mediante una API **Para** visualizar los usuarios afiliados a nuestra aplicación.|3|
+|37|TS04|Get user|**Como** desarrollador de GreenSync **Quiero** obtener la información de un usuario mediante una API **Para** mostrarla en la aplicación cuando se solicite.|3|
+|38|TS05|Post payment cards|**Como** desarrollador de GreenSync **Quiero** registrar la información de pago de las organizaciones mediante una API **Para** contar con la información para pagos futuros.|3|
+|39|TS06|Get payment cards|**Como** desarrollador de GreenSync **Quiero** obtener la información de pago de las organizaciones mediante una API **Para** recibir los pagos en la aplicación cuando sea solicitado.|3|
+|40|TS07|Get roles per user|**Como** desarrollador de GreenSync **Quiero** asignar roles a los usuarios mediante una API **Para** que puedan acceder a funcionalidades específicas según su rol.|5|
+|41|TS08|Get Roles per User|**Como** desarrollador de GreenSync **Quiero** obtener la información de los usuarios por sus roles mediante una API **Para** brindar la diferenciación de funcionalidades en la aplicación según su rol.|3|
+|42|TS09|Get Organization by Membership|**Como** desarrollador de GreenSync **Quiero** obtener la información de las organizaciones por sus membresías mediante una API **Para** brindar la diferenciación de funcionalidades en la aplicación según su membresía.|3|
+|43|TS10|Get File Download|**Como** desarrollador de GreenSync **Quiero** permitir que los usuarios descarguen archivos previamente subidos mediante una API **Para** que puedan acceder a sus documentos cuando lo necesiten.|5|
+|44|TS11|Post File Upload|**Como** desarrollador de GreenSync **Quiero** permitir que los usuarios suban archivos mediante una API **Para** que puedan almacenar documentos relacionados en la aplicación.|5|
+|45|TS12|Get User Activity Log|**Como** desarrollador de GreenSync **Quiero** obtener el registro de actividad de un usuario mediante una API **Para** auditar sus acciones y asegurarme de que la aplicación sea utilizada correctamente.|5|
+|46|TS13|Post Data Backup|**Como** desarrollador de GreenSync **Quiero** crear copias de seguridad de los datos mediante una API **Para** proteger la información y asegurar la recuperación en caso de un fallo del sistema.|5|
+|47|TS14|Get Data Restore|**Como** desarrollador de GreenSync **Quiero** restaurar los datos desde una copia de seguridad mediante una API **Para** recuperar la información en caso de un fallo del sistema.|5|
+|48|TS15|Get Error Log Information|**Como** desarrollador de GreenSync **Quiero** obtener la información de los errores registrados mediante una API **Para** poder realizar análisis y correcciones.|5|
 
 # <font color="red">**Capítulo IV: Product Design**</font>
 
@@ -1366,8 +1470,164 @@ Get In Touch Section:
 
 ## **5.2. Landing Page, Services & Applications Implementation**
 ## **5.2.1. Sprint 1**
+
+Para este Sprint 1 nos hemos tratado de enfocar en los task generales para la elaboración del landing page. Por lo que nos dividiremos las tareas entre los integrantes del grupo para la elaboración correspondiente de las user stories.
+
 ### **5.2.1.1. Sprint Planning 1**
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024-09-05</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>12:05 AM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Google meeting</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Alejandro Barturen</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                Alejandro Pachas, Alejandro Barturen, Piero Martinez, José Chirito, Rodrigo Salvador
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint n Review Summary</td>
+            <td>
+                Implementación de los Capítulos 1, 2, 3, 4 y 5. En lo que se abarcó Segmento de Investigación, Requirements Specification, Design y el primer Sprint de implementación para el desarrollo de la landing page.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint n Retrospective Summary</td>
+            <td>
+                Se puede rescatar la puntualidad y el compromiso de algunos miembros del equipo para el desarrollo del trabajo en grupo, mientras que el resto se rescata el esfuerzo al presentarse de manera activa para la coordinación grupal.
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint n Goal</td>
+            <td>
+                Elaboración de los Capítulos I, II, III, IV y Avance del Capítulo V hasta el Team Collaboration Insights during Sprint.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint n Velocity</td>
+            <td>
+                -
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                -
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ### **5.2.1.2. Sprint Backlog 1**
+
+<img alt="image" src="imgs/SprintBacklog1.png">
+
+Para esta entrega se distribuyeron las 5 primeras user stories que hemos decidido hacer por cada integrante del grupo, de esta forma decidimos organizarnos mejor y separar los avances de cada integrante del equipo.
+
+<table>
+    <thead>
+  <thead>
+    <tr>
+        <th>Sprint #</th>
+        <th colspan="7">Sprint 1</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">WorkItem / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status(To-do/In-Process/To-Review/Done)</th>
+    </tr>
+    <tr>
+        <td rowspan="1">US01</td>
+        <td rowspan="1">Solicitud de Información</td>
+        <td>UT01</td>
+        <td>Solicitar Información</td>
+        <td>Crear un formulario de contacto que envíe mensajes y gestione errores de envío con validación estándar.</td>
+        <td>4</td>
+        <td>Alejandro Barturen</td>
+        <td>To-do</td>
+    </tr>
+    <tr>
+        <td rowspan="1">US02</td>
+        <td rowspan="1">Acceso Rápido a Información Clave</td>
+        <td>UT02</td>
+        <td>Información Clave</td>
+        <td>Acceso rápido a la información necesaria que sea de suma importancia.</td>
+        <td>4</td>
+        <td>Alejandro Pachas</td>
+        <td>To-do</td>
+    </tr>
+     <tr>
+        <td rowspan="1">US03</td>
+        <td rowspan="1">Redirección a la Plataforma</td>
+        <td>UT03</td>
+        <td>Redirección a la Plataforma</td>
+        <td>Asegurar que al recargar la página o acceder desde un link, este nos devuelva a la plataforma.</td>
+        <td>4</td>
+        <td>Rodrigo Salvador</td>
+        <td>In Process</td>
+    </tr>
+    <tr>
+        <td rowspan="1">US06</td>
+        <td rowspan="1">Alertas de Inventario Bajo</td>
+        <td>UT06</td>
+        <td>ALERTA</td>
+        <td>Configurar alertas automáticas que se activen cuando los niveles de inventario bajen de un umbral definido.</td>
+        <td>4</td>
+        <td>Piero Martine</td>
+        <td>To-Do</td>
+    </tr>
+   <tr>
+        <td rowspan="1">US08</td>
+        <td rowspan="1">Chat de Comunicación Interna</td>
+        <td>UT08</td>
+        <td>Chat Personal</td>
+        <td>Integrar un chat de comunicación interna donde los usuarios puedan comunicarse de forma efectiva.</td>
+        <td>4</td>
+        <td>José Chirito</td>
+        <td>To-Do</td>
+    </tr>
+  </thead>
+    </thead>
+</table>
+
+Link del trello: https://trello.com/invite/b/66650f7cdb0183dfa4f57b32/ATTI78cc5b185caf54a6142efb039d2abd4eF07A3C5B/sprint-backlog-1
+
+
 ### **5.2.1.3. Development Evidence for Sprint Review**
 ### **5.2.1.4. Testing Suite Evidence for Sprint Review**
 ### **5.2.1.5. Execution Evidence for Sprint Review**
