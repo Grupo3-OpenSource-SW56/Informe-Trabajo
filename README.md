@@ -668,6 +668,12 @@ Posicionar a EcoRoute como no solo una solución sostenible, sino también una h
 ### **2.3.2. User Task Matrix**
 ### **2.3.3. User Journey Mapping**
 ### **2.3.4. Empathy Mapping**
+**Segmento 1:** Empresas de Manufactura.  
+<img src="imgs/empathy-map/manufactura.png" alt="User Persona" style="width:100%;">
+
+**Segmento 2:** Empresas de Logística y Transporte.
+<img src="imgs/empathy-map/transporte.png" alt="User Persona" style="width:100%;">
+
 ### **2.3.5. As-is Scenario Mapping**
 
 ## **2.4. Ubiquitous Language**
