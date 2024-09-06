@@ -779,7 +779,48 @@ User Persona: Laura Martinez
 
 ### **2.3.5. As-is Scenario Mapping**
 
+**Segmento : Empresa manufactura**
+
+<img src="imgs/ScenarioMapping1.png" alt="As-is Scenario Mapping 1" style="width:100%;">
+
+**Segmento: Empresa de Logística**
+
+<img src="imgs/ScenarioMapping2.png" alt="As-is Scenario Mapping 2" style="width:100%;">
+
 ## **2.4. Ubiquitous Language**
+
+**Supply Chain (Cadena de Suministro)**
+- Conjunto de procesos, operaciones y proveedores involucrados en la producción y distribución de productos desde el origen hasta el cliente final.
+
+**Sustainability (Sostenibilidad)**
+- Prácticas que buscan minimizar el impacto ambiental y promover un uso responsable de los recursos dentro de las operaciones empresariales.
+
+**Logistics Optimization (Optimización Logística)**
+- Mejora de la eficiencia en los procesos de planificación, ejecución y control de las operaciones logísticas, con el objetivo de reducir costos y tiempos.
+
+**Environmental Impact (Impacto Ambiental)**
+- Medición del efecto que tienen las actividades empresariales en el medio ambiente, incluyendo la huella de carbono y otras métricas de sostenibilidad.
+
+**ROI (Return on Investment) - Retorno de la Inversión**
+- Indicador financiero que mide la rentabilidad de una inversión en relación a los beneficios obtenidos.
+
+**KPI (Key Performance Indicator) - Indicador Clave de Desempeño**
+- Métricas utilizadas para evaluar la eficiencia y efectividad de las operaciones en la cadena de suministro y la sostenibilidad.
+
+**Product Demonstration (Demostración de Producto)**
+- Presentación en la que se muestra cómo funciona un producto o servicio, destacando sus beneficios y características clave para los posibles clientes.
+
+**Team Training (Capacitación del Equipo)**
+- Formación y educación proporcionada a los empleados para garantizar el uso correcto y efectivo de nuevas herramientas o plataformas.
+
+**Stakeholders (Partes Interesadas)**
+-  Individuos o entidades que tienen un interés directo en las operaciones y resultados de la empresa, como clientes, reguladores, y empleados.
+  
+**Process Optimization (Optimización de Procesos)**
+- Mejora continua de los procesos internos para aumentar la eficiencia y reducir costos y tiempos operativos.
+
+**Data-Driven Decision Making (Toma de Decisiones Basada en Datos)**
+-  Uso de datos y análisis cuantitativos para guiar la toma de decisiones empresariales, especialmente en áreas como logística y sostenibilidad.
 
 # <font color="red"> **Capítulo III: Requirements Specification**</font>
 
