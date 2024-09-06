@@ -91,7 +91,7 @@
         <td>1.7</td>
         <td>05/09/2024</td>
         <td>Rodrigo Jesús Salvador Rodríguez - U202213646</td>
-        <td>Implementación de la Entrevista 3</td>
+        <td>Implementación de la Entrevista 2</td>
     </tr>
 </table>
 
@@ -230,6 +230,12 @@ URL del repositorio de la Organizacion: <https://github.com/Grupo3-OpenSource-SW
 
 # <font color="red">**Student Outcome**</font>
 
+|Criterio especifico|Acciones realizadas|Conclusiones|
+|-|:-|-|
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Rodrigo Salvador** <br> TB1: En esta entrega se realizó la definición de la Startup Profile, Impact Mapping, Product Backlog, Sprint Planning y Sprint Backlog 1. Una característica a tomar en cuenta  es la alineación de objetivos estratégicos con tareas específicas, priorizando funcionalidades esenciales para maximizar el valor del producto. <br> **Alejandro Barturen** <br> TB1:|Se logró realizar un trabajo a tiempo y aceptable, pues cumplimos con todas las partes del trabajo, de tal manera que se pueda entregar un trabajo digno. El documento elaborado proporciona una referencia escrita para quienes busquen entender en profundidad los procesos de planificación, desarrollo y despliegue del proyecto en elaboración y corrección constante.|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Rodrigo Salvador** <br> TB1: En esta entrega se realizó el proceso de entrevistas en base a los segmentos objetivos seleccionados. Se comunicó oralmente a través de las personas entrevistadas nuestro objetivo y lo que esperamos hacer en el proyecto. <br> **Alejandro Barturen** <br> TB1:|Como equipo pudimos establecer medios de comunicación como las redes sociales, para lograr entregar un trabajo integral pese a la limitación de los plazos ajustados para los avances del proyecto.|
+
+
 # <font color="red"> **Capítulo I: Introducción** </font>
 ## **1.1. Startup Profile**
 ### **1.1.1. Descripción de la Startup**
@@ -258,7 +264,10 @@ Visión: EcoRoute será una de las principales causas en la reducción de la con
         <td> <img src="imgs/integrante-martinez.jpeg"></td>
         <td>Mi nombre es Piero Alonso Martinez Villanueva. Me encuentro estudiando la carrera de Ingeniería de Software y tengo 22 años. Poseo experiencia en trabajo en equipo, aportando ideas innovadoras y soluciones eficaces, siendo puntual con los plazos establecidos en la elaboración de los proyectos. Me gusta aprender sobre nuevas tecnologías, además de ser paciente y perseverante en el desarrrollo de un proyecto. Tengo experiencia en lenguajes de programación como C++, C#, Java, JavaScript y HTML y en programas de diseño como Illustrator, Photoshop, CorelDraw y Maya3D. </td>
     </tr>
-
+<tr>
+        <td> <img src="imgs/integrante_salvador.png"></td>
+        <td>Me llamo Rodrigo Jesús Salvador Rodríguez, tengo 19 años, estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC) cursando el 5to Ciclo. Tengo conocimientos de lenguaje C++, C#, Python, también cuento con aprendizaje acerca de los sistemas operativos y deseo seguir expandiendo más mi conocimiento. Me considero una persona responsable y puntual en todo tipo de aspectos, esto lo voy a ver reflejado en este proyecto, como miembro de este equipo me comprometo a seguir las indicaciones al pie de la letra, seguir recomendaciones y apoyar siempre a mis compañeros para presentar el mejor proyecto grupal. </td>
+    </tr>
 </table>
 
 ## **1.2. Solution Profile**
@@ -1257,6 +1266,7 @@ Para este apartado se realizará el análisis dividida entre los dos segmentos.
     <td></td>
   </tr>
 </tbody></table>
+
 ## **3.3. Impact Mapping**
 
 ![image](imgs/ImpactMapping1.png)
