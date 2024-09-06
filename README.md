@@ -123,6 +123,12 @@
         <td>Piero Alonso Martinez Villanueva - U202113821</td>
         <td>Implementación de Entrevista 4</td>
     </tr>
+   <tr>
+        <td>1.12</td>
+        <td>06/09/2024</td>
+        <td>Rodrigo Jesús Salvador Rodríguez - U202213646</td>
+        <td>Implementación del Software Architecture Context Diagram y Software Architecture Container Diagrams.</td>
+    </tr>
 </table>
 
 # <font color="red">**Project Report Collaboration Insights**</font>
