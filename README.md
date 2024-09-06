@@ -64,6 +64,12 @@
         <td>Alejandro Nicolás Barturen Guzmán - U202214406</td>
         <td>Implementación de las US y el to-be map</td>
     </tr>
+  <tr>
+    <td>1.3</td>
+    <td>06-09-2024</td>
+    <td>Alejandro Nicolás Barturen Guzmán - U202214406</td>
+    <td>Implementacion de la entrevista 1</td>
+  </tr>
 </table>
 
 # <font color="red">**Project Report Collaboration Insights**</font>
