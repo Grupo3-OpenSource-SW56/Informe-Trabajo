@@ -10,7 +10,7 @@
 </div>
 
 <br>
-<h3 align="center"> Desarrollo de Aplicaiones Open Source - SW56 </h3>
+<h3 align="center"> Desarrollo de Aplicaciones Open Source - SW56 </h3>
 <h3 align="center"> Profesor del Curso: Efraín Ricardo Bautista Ubillús  </h3>
 <h3 align="center"> "INFORME DE TRABAJO FINAL"</h3>
 <h3 align="center"> EMPRESA DE INICIO: GreenSync </h3>
