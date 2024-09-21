@@ -1597,7 +1597,7 @@ El Domain Driven Design (DDD) busca crear un entendimiento común del dominio qu
 <img src="imgs/softwarearchitecturecontainerdiagrams.png" alt="Software Architecture Container Diagrams" style="width:100%;">
 
 ### **4.6.3. Software Architecture Components Diagrams**
-<p align="center"> <img src="imgs/ComponentDiagram.png"> </p>
+<img src="imgs/softwarearchitecturecomponentdiagrams.png" alt="Software Architecture Component Diagrams" style="width:100%;">
 
 ## **4.7. Software Object-Oriented Design**
 ### **4.7.1. Class Diagrams**
