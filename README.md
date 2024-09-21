@@ -370,17 +370,15 @@ Se estima que un alto porcentaje del personal involucrado en la gestión de la c
 ### **1.2.2 Lean UX Process**
 ### 1.2.2.1. Lean UX Problem Statements
 
-El propósito fundamental de EcoRoute es brindar a las empresas una solución integral para gestionar de manera sustentable y eficiente sus cadenas de suministro, permitiendo a los responsables de operaciones y sustentabilidad optimizar su impacto ambiental y mejorar la eficiencia operativa.\
+Las empresas enfrentan grandes desafíos para incorporar la sostenibilidad en sus operaciones debido a la falta de herramientas integradas que permitan evaluar adecuadamente a los proveedores, gestionar el impacto ambiental y optimizar la logística. Actualmente, las plataformas disponibles son parciales y no ofrecen una solución integral que aborde estos tres pilares de manera eficiente.\
 \
-Este desafío surge de la falta de herramientas adecuadas para la evaluación de proveedores, la gestión del impacto ambiental y  la optimización logística, lo que genera muchos problemas operativos y ambientales. Muchas empresas luchan por incorporar la sostenibilidad en sus operaciones, lo que genera mayores emisiones de carbono, altos costos operativos  y una gestión ineficiente de la cadena de suministro. Esta deficiencia se refleja principalmente en la falta de datos precisos y análisis útiles, así como en una mala integración en los sistemas existentes, lo que dificulta la toma de decisiones estratégicas informadas.\
+Esta carencia genera ineficiencias en la cadena de suministro, incrementa la huella de carbono y eleva los costos operativos. Además, las empresas enfrentan dificultades para cumplir con las normativas ambientales, lo que puede resultar en sanciones y dañar su reputación en el mercado. La falta de datos precisos y la utilización de métodos manuales aumentan el riesgo de errores y afectan la toma de decisiones estratégicas.\
 \
- La eficiencia  y  sostenibilidad empresarial se ven afectadas por la falta de herramientas adecuadas en la gestión de la cadena de suministro. No evaluar y seleccionar proveedores sostenibles, gestionar el impacto ambiental y optimizar las operaciones logísticas puede generar problemas como un mayor impacto ambiental, costos innecesarios y el incumplimiento de las regulaciones ambientales. Además, la falta de información precisa y oportuna complica la planificación estratégica y la toma de decisiones, lo que afecta negativamente la rentabilidad y la competitividad a largo plazo de una empresa.
+Tenemos como visión desarrollar una solución tecnológica integral que combine la evaluación de proveedores, la gestión ambiental y la optimización logística en una sola plataforma. Esta herramienta permitirá a las empresas monitorear, gestionar y reducir su impacto ambiental mientras optimizan sus operaciones y mejoran su cumplimiento normativo.\
+\
+Nuestra misión será crear un ecosistema empresarial sostenible donde las empresas puedan operar de manera eficiente y responsable, minimizando su huella de carbono y asegurando el cumplimiento de normativas ambientales locales e internacionales.
 
-**Problem Statement 1:** La falta de herramientas adecuadas para evaluar proveedores y gestionar el impacto ambiental en numerosas empresas provoca una serie de problemas operativos y ambientales, como una mayor huella de carbono, costos operativos elevados y una gestión ineficaz de la cadena de suministro.
-
-**Problem Statement 2:** La dependencia de métodos manuales y poco eficientes para la gestión de la cadena de suministro, como el registro de datos en papel y el uso de hojas de cálculo, aumenta la probabilidad de errores y complica la toma de decisiones informadas en cuanto a sostenibilidad y eficiencia.
-
-**Problem Statement 3:** La carencia de herramientas integradas para la optimización logística y el análisis del impacto ambiental afecta la capacidad de las empresas para cumplir con sus objetivos de sostenibilidad y eficiencia, resultando en costos innecesarios, un mayor impacto ecológico y una planificación estratégica deficiente.
+¿Cómo podríamos integrar la sostenibilidad en las operaciones empresariales de manera eficiente y rentable, utilizando una plataforma tecnológica que simplifique la gestión de proveedores, el impacto ambiental y la logística?
 
  
  
@@ -388,17 +386,18 @@ Este desafío surge de la falta de herramientas adecuadas para la evaluación de
 ### 1.2.2.2. Lean UX Assumptions
 
 - **Business Assumptions:**
-1. Creemos que nuestro usuarios necesitan herramientas sencillas para gestionar y mejorar la sostenibilidad y eficiencia de sus cadenas de suministros  
-2. Estas necesidades se pueden satisfacer proporcionando una plataforma que provee  análisis de proveedores, el seguimiento del impacto ambiental y la optimización logística. 
-3. Nuestros clientes iniciales serán empresas que busquen optimizar su cadena de suministro para reducir su huella ecológica. 
-4. El valor más importante que un cliente quiere de nuestro servicio es la capacidad de mejorar su sostenibilidad sin comprometer la eficiencia operativa. 
-5. El cliente también va a obtener informes detallados y recomendaciones personalizadas para la optimización logística y la reducción del impacto ambiental. 
-7. Vamos a obtener la mayoría de clientes mediante estrategias de marketing digital enfocadas en empresas ecológicas y asociaciones con organizaciones de sostenibilidad. 
-8. Vamos a obtener ingresos mediante planes de suscripción que ofrecen diferentes niveles de acceso a las herramientas de la plataforma. 
-9. Nuestra competencia en el mercado serán  otras plataformas de sostenibilidad empresarial y software de gestión de cadenas de suministro. 
+1. Creemos que los usuarios necesitan herramientas eficientes y fáciles de usar para mejorar la sostenibilidad y la eficiencia de sus cadenas de suministro.  
+2. Estas necesidades se pueden satisfacer ofreciendo una plataforma integral que combine la evaluación de proveedores, la gestión del impacto ambiental y la optimización logística, todo en un solo sistema. 
+3. Nuestros clientes iniciales serán empresas que priorizan la sostenibilidad y la reducción de su huella ecológica, con necesidades específicas de integración con sus sistemas actuales.
+4. El valor principal que los clientes desean es mejorar su sostenibilidad sin perder eficiencia operativa ni enfrentar altos costos de implementación.
+5. El cliente también va a recibir informes detallados y recomendaciones que les permitirán reducir costos operativos y minimizar su impacto ambiental.
+6. Vamos a obtener la mayoría de los clientes mediante estrategias de marketing digital y asociaciones estratégicas con organizaciones enfocadas en la sostenibilidad empresarial.
+7. Vamos a obtener ingresos mediante un modelo de suscripción, con diferentes niveles de acceso a las herramientas de la plataforma, adaptados a las necesidades y tamaño de las empresas. 
+8. Nuestra competencia principal en el mercado serán otras plataformas de gestión de sostenibilidad y logística, pero nos destacaremos por nuestra integración personalizada y enfoque en la sostenibilidad integral de la cadena de suministro.
+9. Vamos a tener ventaja frente a nuestra competencia debido a nuestra capacidad de ofrecer una plataforma única que combina la evaluación de proveedores, la gestión ambiental y la optimización logística, lo que permite a las empresas reducir costos operativos y su huella de carbono de manera efectiva.
 10. Vamos a tener ventaja frente a nuestra competencia debido a nuestra integración personalizada, consultoría especializada y enfoque exclusivo en la sostenibilidad de la cadena de suministro. 
-11. El mayor riesgo de del servicio es la posible falta de adopción por parte de empresas que aún no priorizan la sostenibilidad. 
-12. Lo resolveremos realizando campañas educativas que demuestren los beneficios financieros y operativos de una cadena de suministro sostenible. 
+11. El mayor riesgo del servicio es la baja adopción por parte de empresas que aún no consideran la sostenibilidad una prioridad. Lo abordaremos mediante campañas educativas que demuestren los beneficios financieros de la sostenibilidad, además de ofrecer programas piloto para mostrar el valor de nuestra solución.
+12. Lo resolveremos realizando actividades de difusión y formación, así como colaborando con instituciones que promuevan prácticas sostenibles, para concienciar sobre la importancia de una cadena de suministro eficiente y ecológica.
 
 - **User Assumptions:**
   
@@ -435,32 +434,25 @@ ambientales locales e internacionales \
 ### **1.2.2.3. Lean UX Hypothesis Statements**
 
 - **Hypothesis Statement 01:**\
-**Creemos que** al proporcionar herramientas integradas para evaluar proveedores y gestionar el impacto ambiental, las empresas podrán reducir significativamente su huella ecológica y mejorar la eficiencia de su cadena de suministro.
+**Creemos que** al proporcionar herramientas integradas para evaluar proveedores y gestionar el impacto ambiental, las empresas podrán reducir su huella ecológica y mejorar la eficiencia de su cadena de suministro.
 \
 **Sabremos que** esta hipótesis es correcta si observamos una reducción considerable en las emisiones de carbono y un aumento en la eficiencia operativa dentro de los primeros seis meses de implementación en empresas piloto.
 \
-**Cuando** implementemos la plataforma en un grupo de empresas seleccionadas para monitorear y analizar los resultados.
+**Cuando** implementemos la plataforma en varias empresas y midamos su rendimiento en un período de seis meses.
 
 - **Hypothesis Statement 02:**\
-**Creemos que** la capacidad de integrar EcoLogix con los sistemas existentes de las empresas (como ERP y CRM) permitirá una adopción más rápida y una mejora en la gestión de la cadena de suministro.
+**Creemos que**  la capacidad de integrar EcoLogix con los sistemas existentes, como ERP y CRM, facilitará una adopción más rápida.
   \
-**Sabremos que** esta hipótesis es correcta si el 80% de las empresas que usan la integración informan una reducción en el tiempo necesario para gestionar la cadena de suministro y una disminución en los errores operativos.
+**Sabremos que** es correcta si al menos el 75% de las empresas que usan la integración informan una reducción del 30% en el tiempo dedicado a la gestión de la cadena de suministro.
   \
-**Cuando** realicemos una fase de prueba con empresas que integren EcoLogix con sus sistemas actuales y evaluemos los resultados en un período de tres meses.
+**Cuando** realicemos una fase de prueba con empresas que integren EcoLogix y evaluemos los resultados en un período de tres meses.
 
 - **Hypothesis Statement 03:**\
-**Creemos que** la función de análisis de impacto ambiental proporcionará a las empresas datos precisos y útiles para tomar decisiones más sostenibles y responsables.
+**Creemos que**  los informes personalizados y las recomendaciones permitirán a las empresas mejorar la eficiencia de sus operaciones.
   \
-**Sabremos** que esta hipótesis es correcta si las empresas que utilizan el análisis de impacto informan una mejora en la toma de decisiones y un alineamiento más cercano con sus objetivos de sostenibilidad.
+**Sabremos que** esta hipótesis es correcta si observamos una reducción del 10% en los costos operativos y una mejora del 25% en la optimización de rutas logísticas.
   \
-**Cuando** implementemos la funcionalidad en empresas y recojamos feedback sobre cómo estos datos están siendo utilizados para tomar decisiones.
-
-- **Hypothesis Statement 04:**\
-**Creemos que** los informes detallados y las recomendaciones personalizadas de EcoLogix ayudarán a las empresas a identificar y corregir ineficiencias en su cadena de suministro de manera más efectiva.
-  \
-**Sabremos** que esta hipótesis es correcta si observamos una reducción del 10% en los costos operativos y una mejora del 25% en la optimización de rutas logísticas en las empresas que usan estos informes.
-  \
-**Cuando** implementamos la funcionalidad de informes y recomendaciones en empresas y monitoreamos los resultados a lo largo de un período de seis meses.
+**Cuando** analicemos el impacto de los informes personalizados en empresas seleccionadas durante un período de seis meses.
 
 ### **1.2.2.4. Lean UX Canvas**
 
