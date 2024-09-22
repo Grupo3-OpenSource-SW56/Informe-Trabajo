@@ -1571,12 +1571,19 @@ Contactanos Section:
 
 **Mobile Web Wireframe** 
 Home Section:
+
 <img src="imgs/mobilewireframe1.png" alt="MobileWireframe1" style="width:40%;">
+
 Suscripciones Section:  
+
 <img src="imgs/mobilewireframe2.png" alt="MobileWireframe2" style="width:40%;">
+
 About Us Section:  
+
 <img src="imgs/mobilewireframe3.png" alt="MobileWireframe3" style="width:40%;">
+
 Contactanos Section:  
+
 <img src="imgs/mobilewireframe4.png" alt="MobileWireframe4" style="width:40%;">
 
 
@@ -1594,13 +1601,21 @@ Contactanos Section:
 
 **Mobile Web Mock-up** 
 Home Section:
+
 <img src="imgs/mobilemockup1.png" alt="MobileMockup1" style="width:40%;">
+
 Suscripciones Section:  
+
 <img src="imgs/mobilemockup2.png" alt="MobileMockup2" style="width:40%;">
+
 About Us Section:  
+
 <img src="imgs/mobilemockup3.png" alt="MobileMockup3" style="width:40%;">
+
 Contactanos Section:  
+
 <img src="imgs/mobilemockup4.png" alt="MobileMockup4" style="width:40%;">
+
 
 ## **4.4. Web Applications UX/UI Design**
 ### **4.4.1. Web Applications Wireframes**
