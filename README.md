@@ -1589,7 +1589,7 @@ Contactanos Section:
 
 ### **4.3.2. Landing Page Mock-up**
 
-**Desktop Mock-up** 
+**Desktop Mock-up - En Español** 
 Home Section:
 <img src="imgs/landingpagemockup1.png" alt="Mockup1" style="width:100%;">
 Suscripciones Section:  
@@ -1599,7 +1599,18 @@ About Us Section:
 Contactanos Section:  
 <img src="imgs/landingpagemockup4.png" alt="Mockup4" style="width:100%;">
 
-**Mobile Web Mock-up** 
+**Desktop Mock-up - En Inglés** 
+Home Section:
+<img src="imgs/landingpagemockupEN1.png" alt="MockupEN1" style="width:100%;">
+Suscripciones Section:  
+<img src="imgs/landingpagemockupEN2.png" alt="MockupEN2" style="width:100%;">
+About Us Section:  
+<img src="imgs/landingpagemockupEN3.png" alt="MockupEN3" style="width:100%;">
+Contactanos Section:  
+<img src="imgs/landingpagemockupEN4.png" alt="MockupEN4" style="width:100%;">
+
+
+**Mobile Web Mock-up - En Español** 
 Home Section:
 
 <img src="imgs/mobilemockup1.png" alt="MobileMockup1" style="width:40%;">
@@ -1615,6 +1626,24 @@ About Us Section:
 Contactanos Section:  
 
 <img src="imgs/mobilemockup4.png" alt="MobileMockup4" style="width:40%;">
+
+
+**Mobile Web Mock-up - En Inglés** 
+Home Section:
+
+<img src="imgs/mobilemockupEN1.png" alt="MobileMockupEN1" style="width:40%;">
+
+Suscripciones Section:  
+
+<img src="imgs/mobilemockupEN2.png" alt="MobileMockupEN2" style="width:40%;">
+
+About Us Section:  
+
+<img src="imgs/mobilemockupEN3.png" alt="MobileMockupEN3" style="width:40%;">
+
+Contactanos Section:  
+
+<img src="imgs/mobilemockupEN4.png" alt="MobileMockupEN4" style="width:40%;">
 
 
 ## **4.4. Web Applications UX/UI Design**
