@@ -370,19 +370,24 @@ Se estima que un alto porcentaje del personal involucrado en la gestión de la c
 ### **1.2.2 Lean UX Process**
 ### 1.2.2.1. Lean UX Problem Statements
 
-Las empresas enfrentan grandes desafíos para incorporar la sostenibilidad en sus operaciones debido a la falta de herramientas integradas que permitan evaluar adecuadamente a los proveedores, gestionar el impacto ambiental y optimizar la logística. Actualmente, las plataformas disponibles son parciales y no ofrecen una solución integral que aborde estos tres pilares de manera eficiente.\
+Las empresas enfrentan desafíos significativos para incorporar la sostenibilidad en sus operaciones debido a la falta de herramientas adecuadas que permitan evaluar a los proveedores, gestionar el impacto ambiental y optimizar la logística. Esto provoca una mayor huella de carbono, altos costos operativos y una gestión ineficaz de la cadena de suministro.\
 \
-Esta carencia genera ineficiencias en la cadena de suministro, incrementa la huella de carbono y eleva los costos operativos. Además, las empresas enfrentan dificultades para cumplir con las normativas ambientales, lo que puede resultar en sanciones y dañar su reputación en el mercado. La falta de datos precisos y la utilización de métodos manuales aumentan el riesgo de errores y afectan la toma de decisiones estratégicas.\
+Actualmente, el problema que se presenta en el mercado es debido a que carece de soluciones que integren de manera efectiva estos tres pilares (evaluación de proveedores, gestión ambiental, optimización logística), lo que genera ineficiencias en la operación y el cumplimiento de normativas ambientales.\
 \
-Tenemos como visión desarrollar una solución tecnológica integral que combine la evaluación de proveedores, la gestión ambiental y la optimización logística en una sola plataforma. Esta herramienta permitirá a las empresas monitorear, gestionar y reducir su impacto ambiental mientras optimizan sus operaciones y mejoran su cumplimiento normativo.\
+Además, las empresas enfrentan restricciones operativas y legales, como la falta de datos precisos, los altos costos de integración de sistemas y la presión para cumplir con estándares de sostenibilidad.\
 \
-Nuestra misión será crear un ecosistema empresarial sostenible donde las empresas puedan operar de manera eficiente y responsable, minimizando su huella de carbono y asegurando el cumplimiento de normativas ambientales locales e internacionales.
+La falta de herramientas que combinen estas funciones en un solo sistema integrado afecta la capacidad de las empresas para cumplir con sus objetivos operativos y ambientales.\
+
+
+Las principales restricciones que enfrentan las empresas al implementar este tipo de solución incluyen:
+- Altos costos de integración de sistemas con sus plataformas existentes.
+- La necesidad de cumplir con normativas ambientales locales e internacionales, que varían de acuerdo con cada mercado.
+- Limitaciones tecnológicas en empresas que aún utilizan métodos tradicionales para gestionar sus operaciones.
 
 ¿Cómo podríamos integrar la sostenibilidad en las operaciones empresariales de manera eficiente y rentable, utilizando una plataforma tecnológica que simplifique la gestión de proveedores, el impacto ambiental y la logística?
 
  
  
-
 ### 1.2.2.2. Lean UX Assumptions
 
 - **Business Assumptions:**
