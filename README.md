@@ -1570,6 +1570,7 @@ Contactanos Section:
 <img src="imgs/landingpagewireframe4.png" alt="Wireframe4" style="width:100%;">
 
 **Mobile Web Wireframe** 
+
 Home Section:
 
 <img src="imgs/mobilewireframe1.png" alt="MobileWireframe1" style="width:40%;">
@@ -1590,6 +1591,7 @@ Contactanos Section:
 ### **4.3.2. Landing Page Mock-up**
 
 **Desktop Mock-up - En Español** 
+
 Home Section:
 <img src="imgs/landingpagemockup1.png" alt="Mockup1" style="width:100%;">
 Suscripciones Section:  
@@ -1600,6 +1602,7 @@ Contactanos Section:
 <img src="imgs/landingpagemockup4.png" alt="Mockup4" style="width:100%;">
 
 **Desktop Mock-up - En Inglés** 
+
 Home Section:
 <img src="imgs/landingpagemockupEN1.png" alt="MockupEN1" style="width:100%;">
 Suscripciones Section:  
@@ -1611,6 +1614,7 @@ Contactanos Section:
 
 
 **Mobile Web Mock-up - En Español** 
+
 Home Section:
 
 <img src="imgs/mobilemockup1.png" alt="MobileMockup1" style="width:40%;">
@@ -1629,6 +1633,7 @@ Contactanos Section:
 
 
 **Mobile Web Mock-up - En Inglés** 
+
 Home Section:
 
 <img src="imgs/mobilemockupEN1.png" alt="MobileMockupEN1" style="width:40%;">
