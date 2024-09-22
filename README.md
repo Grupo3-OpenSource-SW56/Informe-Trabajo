@@ -1561,16 +1561,23 @@ El sistema de navegación está diseñado para ser intuitivo y eficiente, permit
 
 **Desktop Wireframe** 
 Home Section:
-<img src="imgs/wireframes/home.png" alt="Page Section" style="width:100%;">
-Subcription Section:  
-<img src="imgs/wireframes/subscriptions.png" alt="Page Section" style="width:100%;">
+<img src="imgs/landingpagewireframe1.png" alt="Wireframe1" style="width:100%;">
+Suscripciones Section:  
+<img src="imgs/landingpagewireframe2.png" alt="Wireframe2" style="width:100%;">
 About Us Section:  
-<img src="imgs/wireframes/aboutus.png" alt="Page Section" style="width:100%;">
-Get In Touch Section:  
-<img src="imgs/wireframes/getintouch.png" alt="Page Section" style="width:100%;">
+<img src="imgs/landingpagewireframe3.png" alt="Wireframe3" style="width:100%;">
+Contactanos Section:  
+<img src="imgs/landingpagewireframe4.png" alt="Wireframe4" style="width:100%;">
 
 ### **4.3.2. Landing Page Mock-up**
-<p align="center"> <img src="imgs/LandingMockUp.png"> </p>
+Home Section:
+<img src="imgs/landingpagemockup1.png" alt="Mockup1" style="width:100%;">
+Suscripciones Section:  
+<img src="imgs/landingpagemockup2.png" alt="Mockup2" style="width:100%;">
+About Us Section:  
+<img src="imgs/landingpagemockup3.png" alt="Mockup3" style="width:100%;">
+Contactanos Section:  
+<img src="imgs/landingpagemockup4.png" alt="Mockup4" style="width:100%;">
 
 ## **4.4. Web Applications UX/UI Design**
 ### **4.4.1. Web Applications Wireframes**
