@@ -31,7 +31,7 @@
 
 </div>
 
-<h3 align="center"> 2024 </h3>
+<h3 align="center"> 2024-2 </h3>
 
 <br>
 
