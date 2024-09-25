@@ -1653,13 +1653,58 @@ Contactanos Section:
 
 ## **4.4. Web Applications UX/UI Design**
 ### **4.4.1. Web Applications Wireframes**
-<p align="center"> <img src="imgs/WebApplicationWireframe.png"> </p>
+
+Link del Figma:[URL](https://drive.google.com/file/d/156n7R81Imjf-ZzFIZ4j2PNuL7W0hYaNs/view?usp=sharing)
+
+**Registro de cuenta**
+<p align="center"> <img src="imgs/wireframesignup.png"> </p>
+
+**Iniciar Sesión**
+<p align="center"> <img src="imgs/wireframelogin.png"> </p>
+
+**Planes de la aplicación**
+<p align="center"> <img src="imgs/wireframeplanes.png"> </p>
+
+**Menú de Inicio**
+<p align="center"> <img src="imgs/wireframesummary.png"> </p>
+
+**Menú de Parthner**
+<p align="center"> <img src="imgs/wireframeparthner.png"> </p>
+
+**Menú Workers**
+<p align="center"> <img src="imgs/wireframeworkers.png"> </p>
+
+**Perfil del Usuario**
+<p align="center"> <img src="imgs/wireframeprofile.png"> </p>
 
 ### **4.4.2. Web Applications Wireflow Diagrams**
 <p align="center"> <img src="imgs/WebApplicationWireflow.png"> </p>
 
+
+
 ### **4.4.3. Web Applications Mock-ups**
-<p align="center"> <img src="imgs/WebMockUp.png"> </p>
+
+**Registro de cuenta**
+<p align="center"> <img src="imgs/sign up.png"> </p>
+
+**Iniciar Sesión**
+<p align="center"> <img src="imgs/log in.png"> </p>
+
+**Planes de la aplicación**
+<p align="center"> <img src="imgs/planes.png"> </p>
+
+**Menú de Inicio**
+<p align="center"> <img src="imgs/summary.png"> </p>
+
+**Menú de Parthner**
+<p align="center"> <img src="imgs/parthner.png"> </p>
+
+**Menú Workers**
+<p align="center"> <img src="imgs/workers.png"> </p>
+
+**Perfil del Usuario**
+<p align="center"> <img src="imgs/profile.png"> </p>
+
 
 ### **4.4.4. Web Applications User Flow Diagrams**
 <p align="center"> <img src="imgs/WebUserFlow.png"> </p>
