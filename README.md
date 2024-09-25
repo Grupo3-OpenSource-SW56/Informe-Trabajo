@@ -2849,5 +2849,7 @@ ANEXO B
 Despliegue de la Landing Page: https://main--magenta-truffle-ccda4a.netlify.app/
 
 ANEXO C
-Despliegue del Frontend: https://startling-alfajores-5d0bae.netlify.app/
+Despliegue del Frontend: https://brave-mud-08b475d10.5.azurestaticapps.net/
 
+ANEXO D
+Sprint Backlog 2 Link: https://trello.com/invite/b/66f3f19d834fa642e89d078a/ATTI71b8e33e3ef25b6d0e7ef6dbbd009f847C884B56/sprint-backlog-2
