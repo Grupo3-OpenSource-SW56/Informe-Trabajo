@@ -2757,7 +2757,7 @@ En esta parte se muestran los commits realizados durante el segundo sprint.
 |FrontEnd | main | 860bf86 | Add files via upload | 2024-09-24
 |FrontEnd | main | 0da63a2 | Create a | 2024-09-24|
 
-  
+
 ### **5.2.2.4. Testing Suite Evidence for Sprint Review**
 Debido a la falta de clases y las relaciones entre ellas, ni las pruebas de unidad ni las pruebas de integración se han generado para este sprint 2. Sin embargo, si se pueden realizar pruebas de aceptación para los requisitos planteados.
 
@@ -2883,14 +2883,18 @@ La evidencia del correcto despliegue de la landing page se presenta a través de
 <p align="center"> <img src="imgs/SoftwareDeploymentEvidence3.png"> </p>
 
 ### **5.2.2.8. Team Collaboration Insights during Sprint**
-Durante este sprint se llevó a cabo la implementación del frontend, además del despliegue de la landing page y web application. Algunos miembros del equipo contribuyeron con el proyecto, realizando sus aportes y commits en Github, lo que permitió un trabajo más realista y detallado de los avances de cada integrante del equipo.
+| Alumno | Actividad |
+|--------|-----------|
+|  Barturen Guzmán, Alejandro Nicolás | Desarrollo del Frontend y de la Landing Page, Reporte |
+| Pachas Chavez, Alejandro Alberto |Desarrollo del Frontend, Landing Page y Reporte |
+| Salvador Rodríguez, Rodrigo Jesús | Desarrollo del Frontend y Reporte |
 
-<p align="center"> <img src="imgs/Colaborattion1.png"> </p>
 
-<p align="center"> <img src="imgs/Colaborattion2.png"> </p>
+Repositorio Landing Page
+<p align="center"> <img src="imgs/collaboration/landing.png"> </p>
 
-<p align="center"> <img src="imgs/Colaborattion3.png"> </p>
-
+Repositorio Frontend
+<p align="center"> <img src="imgs/collaboration/frontend.png"> </p>
 
 
 # **Conclusiones y recomendaciones**
