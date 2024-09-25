@@ -2198,7 +2198,7 @@ Para el despliege de nuestra landing page se escogio Netlify siendo una alternat
 
 Para este Sprint 1 nos hemos tratado de enfocar en los task generales para la elaboración del landing page. Por lo que nos dividiremos las tareas entre los integrantes del grupo para la elaboración correspondiente de las user stories.
 
-### **5.2.1.1. Sprint Planning 1**
+### **5.2.1.1. Sprint Planning 2**
 
 <table>
     <thead>
@@ -2269,7 +2269,7 @@ Para este Sprint 1 nos hemos tratado de enfocar en los task generales para la el
     </tbody>
 </table>
 
-### **5.2.1.2. Sprint Backlog 1**
+### **5.2.1.2. Sprint Backlog 2**
 
 <img alt="image" src="imgs/SprintBacklog1.png">
 
