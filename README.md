@@ -774,6 +774,15 @@ Ricardo Reyes, de 26 años, lleva dos años como jefe de operaciones en su empre
 |<img width="1292" src="imgs/Entrevistado4.png">| Renzo Martínez, supervisor de planta en Rango Sport S.A.C. con 5 años de experiencia, enfrenta desafíos como la escasez de materiales, retrasos en los envíos y costos crecientes. La sostenibilidad es clave para la empresa, con auditorías y revisiones a proveedores cada 6 meses. Actualmente, utilizan SAP y Excel para gestionar la cadena de suministro, pero buscan una solución integrada y fácil de usar que ofrezca mejores análisis de datos. Sus objetivos incluyen mejorar la eficiencia, reducir costos y aumentar la sostenibilidad mediante la automatización de procesos. Renzo utiliza dispositivos móviles y correo electrónico a diario, y espera que una nueva plataforma ofrezca soporte técnico experto y recursos en línea. |
 |Timing: 0:00-7:27 |URL: [upc-pre-202402-si729-SW56-Entrevista-4](https://youtu.be/41P4xFNYn6c)|
 
+#### **Segmento objetivo: Empresas de Manufactura** 
+|Entrevistado 5|Miguel Rojas|
+|-|-|
+|Edad|22|
+|Ciudad|Lima|
+|<img width="1292" src="imgs/entrevistado5.png">| Miguel Rojas, voluntario en una empresa de manufactura con un año de experiencia en el desarrollo de branding, se enfrenta a retos como la adaptación a cambios del mercado y la optimización logística. La sostenibilidad es una prioridad para la empresa, con revisiones frecuentes a proveedores para asegurar prácticas responsables. Utilizan un sistema ERP para gestionar la cadena de suministro, aunque buscan soluciones más integradas y eficientes. Sus objetivos incluyen mejorar la sostenibilidad y la eficiencia en los próximos 5 años. Miguel utiliza dispositivos móviles y diversas aplicaciones para su gestión diaria y espera un soporte técnico rápido y eficaz en cualquier nueva plataforma.|
+|Timing: 0:00-7:27 |URL: [upc-pre-202402-si729-SW56-Entrevista-5](https://youtu.be/1DJuOc-JnNM)|
+
+
 ### **2.2.3. Análisis de entrevistas**
 
 Para este apartado se realizará el análisis dividida entre los dos segmentos. 
