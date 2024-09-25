@@ -1678,7 +1678,25 @@ Link del Figma:[URL Figma](https://drive.google.com/file/d/156n7R81Imjf-ZzFIZ4j2
 <p align="center"> <img src="imgs/wireframeprofile.png"> </p>
 
 ### **4.4.2. Web Applications Wireflow Diagrams**
-<p align="center"> <img src="imgs/WebApplicationWireflow.png"> </p>
+
+**User Goal: Registrarse como usuario**
+
+Al acceder al Login In o Join Us desde el landing page, este nos direccionará al log in o sign up, de acuerdo al botón que presione el usuario. Una vez creada la cuenta, volvemos al log in y accedemos con nuestra cuenta. Posteriormente, nos saldrán los planes a escoger, podemos seleccionar el gratuito incluso.
+
+<p align="center"> <img src="imgs/wireflow1.png"> </p>
+
+**User Goal: Selección de Plan**
+
+Al seleccionar el plan gratuito, con esto accedemos a la página por dentro, en la que estamos en el apartado de summary como si fuera la del inicio.
+
+<p align="center"> <img src="imgs/wireflow2.png"> </p>
+
+**User Goal: Selección de apartados en la sidebar**
+
+En la sidebar, podemos seleccionar los apartados de summary, parthner, workers y profile, cada uno tiene sus funciones propias de acuerdo al uso de las user stories propuestas.
+Además se pueden ver los apartados solicitados.
+
+<p align="center"> <img src="imgs/wireflow3.png"> </p>
 
 
 
