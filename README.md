@@ -2565,7 +2565,7 @@ Para este Sprint 2 hemos tratado de avanzar los task pendientes con relación al
         <tr>
             <td>Atendees (to planning meeting)</td>
             <td>
-                Alejandro Barturen,  Rodrigo Salvador
+                Alejandro Barturen,  Rodrigo Salvador, Alejandro Pachas
             </td>
         </tr>
         <tr>
