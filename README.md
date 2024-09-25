@@ -1654,7 +1654,7 @@ Contactanos Section:
 ## **4.4. Web Applications UX/UI Design**
 ### **4.4.1. Web Applications Wireframes**
 
-Link del Figma:[URL](https://drive.google.com/file/d/156n7R81Imjf-ZzFIZ4j2PNuL7W0hYaNs/view?usp=sharing)
+Link del Figma:[URL Figma](https://drive.google.com/file/d/156n7R81Imjf-ZzFIZ4j2PNuL7W0hYaNs/view?usp=sharing)
 
 **Registro de cuenta**
 <p align="center"> <img src="imgs/wireframesignup.png"> </p>
@@ -1672,7 +1672,7 @@ Link del Figma:[URL](https://drive.google.com/file/d/156n7R81Imjf-ZzFIZ4j2PNuL7W
 <p align="center"> <img src="imgs/wireframeparthner.png"> </p>
 
 **Menú Workers**
-<p align="center"> <img src="imgs/wireframeworkers.png"> </p>
+<p align="center"> <img src="imgs/wireframesworkers.png"> </p>
 
 **Perfil del Usuario**
 <p align="center"> <img src="imgs/wireframeprofile.png"> </p>
