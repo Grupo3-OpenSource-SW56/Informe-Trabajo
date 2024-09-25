@@ -2520,13 +2520,11 @@ La evidencia del correcto despliegue de la landing page se presenta a través de
 <p align="center"> <img src="imgs/SoftwareDeploymentEvidence3.png"> </p>
 
 ### **5.2.1.8. Team Collaboration Insights during Sprint**
-Durante este sprint se llevó a cabo la implementación de la landing page. Los miembros del equipo contribuyeron activamente al proyecto, realizando sus aportes mediante commits registrados en la herramienta GitHub, lo que permitió un trabajo colaborativo eficiente y controlado en el desarrollo del sprint. A continuación, se presenta capturas de pantalla del mismo:
-
-<p align="center"> <img src="imgs/Colaborattion1.png"> </p>
-
-<p align="center"> <img src="imgs/Colaborattion2.png"> </p>
-
-<p align="center"> <img src="imgs/Colaborattion3.png"> </p>
+| Alumno | Actividad |
+|--------|-----------|
+| Barturen Guzmán, Alejandro Nicolás| Desarrollo del Capítulo II y desarrollo del Landing Page |
+| Pachas Chavez, Alejandro Alberto | Desarrollo del Capítulo IV (Style Guidelines, Information Architecture, Landing Page UI Design, Web Applications UX/UI Design, Web Applications Prototyping ) y V. Desarrollo de la Landing Page |
+| Salvador Rodríguez, Rodrigo Jesús | Desarrollo del Capítulo I y elaboración de la Landing Page |
 
 
 ## **5.2.2. Sprint 2**
