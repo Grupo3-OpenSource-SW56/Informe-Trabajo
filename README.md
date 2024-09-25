@@ -1692,7 +1692,7 @@ Según el diagrama de clases, aquí se presenta el significado de cada clase y a
 
 ## **4.8. Database Design**
 ### **4.8.1. Database Diagram**
-<p align="center"> <img src="imgs/DataBaseDiagram.png"> </p>
+<p align="center"> <img src="imgs/dbdiagram.png"> </p>
 
 # <font color="red">**Capítulo V: Product Implementation, Validation & Deployment**</font>
 
