@@ -120,20 +120,50 @@
   <tr>
         <td>1.12</td>
         <td>05/09/2024</td>
-        <td>Piero Alonso Martinez Villanueva - U202113821</td>
-        <td>Implementación de Entrevista 4</td>
-    </tr>
-   <tr>
-        <td>1.12</td>
-        <td>06/09/2024</td>
-        <td>Rodrigo Jesús Salvador Rodríguez - U202213646</td>
-        <td>Implementación del Software Architecture Context Diagram y Software Architecture Container Diagrams.</td>
+        <td>Alejandro Alberto Pachas Chavez - U201917598</td>
+        <td>Realización de los Wireframes</td>
     </tr>
    <tr>
         <td>1.13</td>
+        <td>05/09/2024</td>
+        <td>Alejandro Alberto Pachas Chavez - U201917598</td>
+        <td>Realización del Empathy-Map para Empresas del sector Transportes </td>
+    </tr>
+    <tr>
+        <td>1.14</td>
+        <td>05/09/2024</td>
+        <td>Alejandro Alberto Pachas Chavez - U201917598</td>
+        <td>Realización del Empathy-Map para Empresas del sector Manufacturero </td>
+    </tr>
+    <tr>
+        <td>1.15</td>
+        <td>05/09/2024</td>
+        <td>Alejandro Alberto Pachas Chavez - U201917598</td>
+        <td>Realización de User Persona para empresa del sector transporte y manufactura</td>
+    </tr>
+    <tr>
+        <td>1.16</td>
+        <td>05/09/2024</td>
+        <td>Alejandro Alberto Pachas Chavez - U201917598</td>
+        <td>Realización del To-Be Scenario Mapping para empresas del sector Manufacturero y Transporte </td>
+    </tr>
+   <tr>
+        <td>1.17</td>
         <td>25/09/2024</td>
         <td>Rodrigo Jesús Salvador Rodríguez - U202213646</td>
         <td>Correcciones de la TB1, implementación del sprint backlog 2, desarrollo del front-end y landing page.</td>
+    </tr>
+    <tr>
+        <td>1.18</td>
+        <td>05/09/2024</td>
+        <td>Alejandro Alberto Pachas Chavez - U201917598</td>
+        <td>Internacionalización del Landing Page </td>
+    </tr>
+    <tr>
+        <td>1.19</td>
+        <td>05/09/2024</td>
+        <td>Alejandro Alberto Pachas Chavez - U201917598</td>
+        <td>Creación del diagrama para la base de datos</td>
     </tr>
 </table>
 
