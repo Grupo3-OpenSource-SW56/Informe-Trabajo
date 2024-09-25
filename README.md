@@ -129,6 +129,12 @@
         <td>Rodrigo Jesús Salvador Rodríguez - U202213646</td>
         <td>Implementación del Software Architecture Context Diagram y Software Architecture Container Diagrams.</td>
     </tr>
+   <tr>
+        <td>1.13</td>
+        <td>25/09/2024</td>
+        <td>Rodrigo Jesús Salvador Rodríguez - U202213646</td>
+        <td>Correcciones de la TB1, implementación del sprint backlog 2, desarrollo del front-end y landing page.</td>
+    </tr>
 </table>
 
 # <font color="red">**Project Report Collaboration Insights**</font>
@@ -268,7 +274,7 @@ URL del repositorio de la Organizacion: <https://github.com/Grupo3-OpenSource-SW
 
 |Criterio especifico|Acciones realizadas|Conclusiones|
 |-|:-|-|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Rodrigo Salvador** <br> TB1: En esta entrega se realizó la definición de la Startup Profile, Impact Mapping, Product Backlog, Sprint Planning y Sprint Backlog 1. Una característica a tomar en cuenta  es la alineación de objetivos estratégicos con tareas específicas, priorizando funcionalidades esenciales para maximizar el valor del producto. <br> <br> **Piero Martinez** <br> TB1: En esta entrega realizó el Style Guidelines, ayudó a complementar el sprint 1, presento la entrevista #4 y realizó correcciones generales. El progreso realizado en este primer trabajo evidencia la exigencia del proyecto, el cual requiere un analisis constante de cada una de las caracteristicas que lo consolidan para elaborar un trabajo existoso. <br> <br> **Alejandro Barturen** <br> TB1:En esta entrega se realizaron con exito la creacion de las user story, y el tobe mapping y la definicion complerta sobre la identidad de nuestro startup y su definicion de sus competidores .Cabe resaltar que se hizo un arduo proceso de seleccion para que toda la informacion tenga sentido con nuestra propuesta y entre si   |Se logró realizar un trabajo a tiempo y aceptable, pues cumplimos con todas las partes del trabajo, de tal manera que se pueda entregar un trabajo digno. El documento elaborado proporciona una referencia escrita para quienes busquen entender en profundidad los procesos de planificación, desarrollo y despliegue del proyecto en elaboración y corrección constante. |
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Rodrigo Salvador** <br> TB1: En esta entrega se realizó la definición de la Startup Profile, Impact Mapping, Product Backlog, Sprint Planning y Sprint Backlog 1. Una característica a tomar en cuenta  es la alineación de objetivos estratégicos con tareas específicas, priorizando funcionalidades esenciales para maximizar el valor del producto. TP1: En esta entrega se realizó el desarrollo del frontend y el landing page deployados, además de las correcciones dadas en la primera entrega (TB1) y prioricé el desarrollo de este a pesar de las desventajas presentadas. <br> <br> **Piero Martinez** <br> TB1: En esta entrega realizó el Style Guidelines, ayudó a complementar el sprint 1, presento la entrevista #4 y realizó correcciones generales. El progreso realizado en este primer trabajo evidencia la exigencia del proyecto, el cual requiere un analisis constante de cada una de las caracteristicas que lo consolidan para elaborar un trabajo existoso. <br> <br> **Alejandro Barturen** <br> TB1:En esta entrega se realizaron con exito la creacion de las user story, y el tobe mapping y la definicion complerta sobre la identidad de nuestro startup y su definicion de sus competidores .Cabe resaltar que se hizo un arduo proceso de seleccion para que toda la informacion tenga sentido con nuestra propuesta y entre si   |Se logró realizar un trabajo a tiempo y aceptable, pues cumplimos con todas las partes del trabajo, de tal manera que se pueda entregar un trabajo digno. El documento elaborado proporciona una referencia escrita para quienes busquen entender en profundidad los procesos de planificación, desarrollo y despliegue del proyecto en elaboración y corrección constante. |
 |Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Rodrigo Salvador** <br> TB1: En esta entrega se realizó el proceso de entrevistas en base a los segmentos objetivos seleccionados. Se comunicó oralmente a través de las personas entrevistadas nuestro objetivo y lo que esperamos hacer en el proyecto. <br> <br> **Piero Martinez** <br> TB1: Se logró mantener la comunicación constante del equipo, lo que permitió realizar las partes más importantes del proyecto en el tiempo establecido. <br> <br> **Alejandro Barturen** <br> TB1:Se realizo el proceso de defincion de estadisticas seleccionando una serie de preguntas que ayudara a comprender a fondo todos la informacion respecto a nuestros segemntos objetivos | Como equipo pudimos establecer medios de comunicación como las redes sociales, para lograr entregar un trabajo integral pese a la limitación de los plazos ajustados para los avances del proyecto. |
 
 
@@ -1112,10 +1118,11 @@ User Persona: Laura Martinez
   </tr>
   <tr>
     <td>US11</td>
-    <td>Optimización de Procesos Productivos</td>
-    <td>Como gerente de una Empresa de Manufactura Quiero  identificar procesos ineficientes en tiempo real Para mejorar el flujo de trabajo</td>
-    <td>Escenario 1: Detección de cuellos de botella<br>Dado los datos de producción, cuando detecto un cuello de botella, entonces se sugiere una acción correctiva.<br>Escenario 2: Implementación de mejoras en tiempo real.<br>Dado una sugerencia de optimización, cuando aplico la mejora, entonces puedo ver una mejora inmediata en el flujo de trabajo</td>
-    <td>EP04</td>
+    <td>Registro de operarios</td>
+    <td>Como gerente de una Empresa de Manufactura Quiero  registrar a mis operarios Para que puedan acceder al sistema</td>
+    <td>Escenario 1: Se registró un operario<br>Dado que estoy en la pantalla de registro de operarios, Cuando ingreso los datos correctos del operario (nombre, rol, email, contraseña, etc.) y presiono el botón de "Registrar", Entonces el operario se registra correctamente en el sistema, y aparece un mensaje de confirmación indicando "Operario registrado exitosamente". <br>Escenario 2: Fallo al registrar usuario.<br>Dado que estoy en la pantalla de registro de operarios, Cuando ingreso los datos correctos del operario (nombre, rol, email, contraseña, etc.) y presiono el botón de "Registrar", Entonces el operario se registra correctamente en el sistema, y aparece un mensaje de confirmación indicando "Operario registrado exitosamente".
+</td>
+    <td>EP13</td>
   </tr>
   <tr>
     <td>US12</td>
@@ -1133,7 +1140,7 @@ User Persona: Laura Martinez
   </tr>
   <tr>
     <td>US14</td>
-    <td>Evaluación Comparativa de Proveedores</td>
+    <td>Evaluación de Proveedores</td>
     <td>Como gerente de una Empresa de Manufactura Quiero  comparar el desempeño de diferentes proveedores Para  elegir aquellos que se alineen mejor con los objetivos de la empresa</td>
     <td>Escenario 1: Comparativa de proveedores<br>Dado una lista de proveedores y sus métricas, cuando selecciono diferentes proveedores, entonces puedo ver una comparación de su desempeño.<br><br>Escenario 2: Filtrado por criterios específicos<br>Dado varios criterios de evaluación, cuando aplico un filtro, entonces sólo se muestran los proveedores que cumplen con esos criterios</td>
     <td>EP05</td>
@@ -1400,7 +1407,7 @@ User Persona: Laura Martinez
 |3|US05|Reporte de Impacto Ambiental de Proveedores|**Como** gerente de una Empresa de Manufactura **Quiero** recibir un reporte mensual del impacto ambiental de cada proveedor **Para** tomar decisiones de selección y descontinuación.|3|
 |4|US06|Alertas de Inventario Bajo|**Como** gerente de una Empresa de Manufactura **Quiero** recibir alertas cuando los niveles de inventario estén bajos **Para** evitar desabastecimientos críticos.|3|
 |5|US10|Control de Calidad Automático|**Como** gerente de una Empresa de Manufactura **Quiero** recibir notificaciones automáticas cuando se detecten desviaciones **Para** tomar medidas inmediatas de corrección.|3|
-|6|US11|Optimización de Procesos Productivos|**Como** gerente de una Empresa de Manufactura **Quiero** identificar procesos ineficientes en tiempo real **Para** mejorar el flujo de trabajo.|3|
+|6|US11|Registro de Operarios|**Como** gerente de una Empresa de Manufactura **Quiero** registrar a mis operarios **Para** que puedan acceder al sistema.|3|
 |7|US16|Estimación de demanda de inventario|**Como** gerente de una Empresa de Manufactura **Quiero** pronosticar la demanda de inventario **Para** planificar mejor las compras de materiales.|5|
 |8|US17|Sistema de Feedback de Empleados en Planta|**Como** gerente de una Empresa de Manufactura **Quiero** implementar un sistema de feedback de empleados en planta **Para** mejorar continuamente los procesos|3|
 |9|US18|Gestión de Recursos Humanos en Planta|**Como** gerente de una Empresa de Manufactura **Quiero** gestionar los recursos humanos en planta de manera eficiente **Para** maximizar la productividad.|5|
@@ -1415,7 +1422,7 @@ User Persona: Laura Martinez
 |18|US09|Gestión de Proveedores con Certificación Verde|**Como** gerente de una Empresa de Manufactura **Quiero** filtrar proveedores que tienen certificaciones ecológicas **Para** asegurarme de cumplir con los estándares de sostenibilidad.|5|
 |19|US12|Control de Desperdicio de Materiales|**Como** gerente de una Empresa de Manufactura **Quiero** monitorear el desperdicio de materiales **Para** minimizar pérdidas y mejorar la eficiencia.|5|
 |20|US13|Visualización de Desempeño de Proveedores|**Como** gerente de una Empresa de Manufactura **Quiero** visualizar el desempeño histórico de los proveedores **Para** tomar decisiones estratégicas sobre su continuidad.|2|
-|21|US14|Evaluación Comparativa de Proveedores|**Como** gerente de una Empresa de Manufactura **Quiero** comparar el desempeño de diferentes proveedores **Para** elegir aquellos que se alineen mejor con los objetivos de la empresa.|3|
+|21|US14|Evaluación de Proveedores|**Como** gerente de una Empresa de Manufactura **Quiero** comparar el desempeño de diferentes proveedores **Para** elegir aquellos que se alineen mejor con los objetivos de la empresa.|3|
 |22|US15|Sistema de Incentivos por Desempeño|**Como** gerente de una Empresa de Manufactura **Quiero** implementar un sistema de incentivos basado en el desempeño **Para** motivar a los empleados.|1|
 |23|US20|Informes de Rendimiento de Rutas|**Como** gerente de una Empresa de Logística y Transporte **Quiero** recibir informes detallados sobre el rendimiento de rutas **Para** optimizar el uso de recursos.|3|
 |24|US22|Comunicación Directa con Conductores|**Como** gerente de una Empresa de Logística y Transporte **Quiero** enviar mensajes directos a los conductores **Para** notificar cambios de ruta o instrucciones específicas.|3|
@@ -1653,20 +1660,113 @@ Contactanos Section:
 
 ## **4.4. Web Applications UX/UI Design**
 ### **4.4.1. Web Applications Wireframes**
-<p align="center"> <img src="imgs/WebApplicationWireframe.png"> </p>
+
+Link del Figma:[URL Figma](https://drive.google.com/file/d/156n7R81Imjf-ZzFIZ4j2PNuL7W0hYaNs/view?usp=sharing)
+
+**Registro de cuenta**
+<p align="center"> <img src="imgs/wireframesignup.png"> </p>
+
+**Iniciar Sesión**
+<p align="center"> <img src="imgs/wireframelogin.png"> </p>
+
+**Planes de la aplicación**
+<p align="center"> <img src="imgs/wireframeplanes.png"> </p>
+
+**Menú de Inicio**
+<p align="center"> <img src="imgs/wireframesummary.png"> </p>
+
+**Menú de Parthner**
+<p align="center"> <img src="imgs/wireframeparthner.png"> </p>
+
+**Menú Workers**
+<p align="center"> <img src="imgs/wireframesworkers.png"> </p>
+
+**Perfil del Usuario**
+<p align="center"> <img src="imgs/wireframeprofile.png"> </p>
 
 ### **4.4.2. Web Applications Wireflow Diagrams**
-<p align="center"> <img src="imgs/WebApplicationWireflow.png"> </p>
+
+Link del Miro: [UserFlow](https://miro.com/welcomeonboard/SnNoUlJXZXcyQTM5THRNUlJJZGpER0hRZFRFNWsyZzN3WDdIZWtDa1Z6Nm44a1hxbDZOeWFWYTgySG9YSUREWHwzMDc0NDU3MzY3NDU3NTEwNTE1fDI=?share_link_id=823673647131)
+
+**User Goal: Registrarse como usuario**
+
+Al acceder al Login In o Join Us desde el landing page, este nos direccionará al log in o sign up, de acuerdo al botón que presione el usuario. Una vez creada la cuenta, volvemos al log in y accedemos con nuestra cuenta. Posteriormente, nos saldrán los planes a escoger, podemos seleccionar el gratuito incluso.
+
+<p align="center"> <img src="imgs/wireflow1.png"> </p>
+
+**User Goal: Selección de Plan**
+
+Al seleccionar el plan gratuito, con esto accedemos a la página por dentro, en la que estamos en el apartado de summary como si fuera la del inicio.
+
+<p align="center"> <img src="imgs/wireflow2.png"> </p>
+
+**User Goal: Selección de apartados en la sidebar**
+
+En la sidebar, podemos seleccionar los apartados de summary, parthner, workers y profile, cada uno tiene sus funciones propias de acuerdo al uso de las user stories propuestas.
+Además se pueden ver los apartados solicitados.
+
+<p align="center"> <img src="imgs/wireflow3.png"> </p>
+
+
 
 ### **4.4.3. Web Applications Mock-ups**
-<p align="center"> <img src="imgs/WebMockUp.png"> </p>
+
+**Registro de cuenta**
+<p align="center"> <img src="imgs/sign up.png"> </p>
+
+**Iniciar Sesión**
+<p align="center"> <img src="imgs/log in.png"> </p>
+
+**Planes de la aplicación**
+<p align="center"> <img src="imgs/planes.png"> </p>
+
+**Menú de Inicio**
+<p align="center"> <img src="imgs/summary.png"> </p>
+
+**Menú de Parthner**
+<p align="center"> <img src="imgs/parthner.png"> </p>
+
+**Menú Workers**
+<p align="center"> <img src="imgs/workers.png"> </p>
+
+**Perfil del Usuario**
+<p align="center"> <img src="imgs/profile.png"> </p>
+
 
 ### **4.4.4. Web Applications User Flow Diagrams**
-<p align="center"> <img src="imgs/WebUserFlow.png"> </p>
+
+Link del Miro: [UserFlow](https://miro.com/welcomeonboard/SnNoUlJXZXcyQTM5THRNUlJJZGpER0hRZFRFNWsyZzN3WDdIZWtDa1Z6Nm44a1hxbDZOeWFWYTgySG9YSUREWHwzMDc0NDU3MzY3NDU3NTEwNTE1fDI=?share_link_id=823673647131)
+
+**User Goal: Registrarse como usuario**
+
+Al acceder al Login In o Join Us desde el landing page, este nos direccionará al log in o sign up, de acuerdo al botón que presione el usuario. Una vez creada la cuenta, volvemos al log in y accedemos con nuestra cuenta. Posteriormente, nos saldrán los planes a escoger, podemos seleccionar el gratuito incluso.
+
+<p align="center"> <img src="imgs/wireflowmockup1.png"> </p>
+
+**User Goal: Selección de Plan**
+
+Al seleccionar el plan gratuito, con esto accedemos a la página por dentro, en la que estamos en el apartado de summary como si fuera la del inicio.
+
+<p align="center"> <img src="imgs/wireflowmockup2.png"> </p>
+
+**User Goal: Selección de apartados en la sidebar**
+
+En la sidebar, podemos seleccionar los apartados de summary, parthner, workers y profile, cada uno tiene sus funciones propias de acuerdo al uso de las user stories propuestas.
+Además se pueden ver los apartados solicitados.
+
+<p align="center"> <img src="imgs/wireflowmockup3.png"> </p>
 
 ## **4.5. Web Applications Prototyping**
 
-<p align="center"> <img src="imgs/WebPrototyping.png"> </p>
+Para crear los prototipos de la interfaz de usuario para Desktop de EcoRoute, se siguieron varios criterios clave:
+
+**Claridad y Facilidad:** El objetivo principal fue asegurar que la navegación sea intuitiva y clara para los usuarios. Empresas de logística y manufactura podrán acceder fácilmente a información relevante para optimizar sus rutas de suministros, reducir costos y mejorar la sostenibilidad. La visualización de métricas clave como eficiencia de rutas y reducción de emisiones también fue diseñada para facilitar su comprensión.
+
+**Diseño Responsive:** Se priorizó un diseño "responsive" para garantizar que la plataforma sea accesible en una variedad de dispositivos, ya sea desde un ordenador de escritorio o un dispositivo móvil, sin perder funcionalidad ni calidad en la experiencia de usuario.
+
+**Priorización de Información Relevante:** El diseño está centrado en mostrar solo la información más importante para las empresas, como rutas optimizadas, costos, y métricas ambientales. Además, se facilita la toma de decisiones con indicadores clave para garantizar un impacto positivo en la eficiencia operativa y la reducción de la huella de carbono.
+
+<img src="imgs/landingpage.png" alt="Landing" style="width:100%;">
 
 ## **4.6. Domain-Driven Software Architecture**
 
@@ -1685,7 +1785,7 @@ El Domain Driven Design (DDD) busca crear un entendimiento común del dominio qu
 
 ## **4.7. Software Object-Oriented Design**
 ### **4.7.1. Class Diagrams**
-<p align="center"> <img src="imgs/ClassDiagram.png"> </p>
+<p align="center"> <img src="imgs/diagramadeclase.png"> </p>
 
 ### **4.7.2. Class Dictionary**
 Según el diagrama de clases, aquí se presenta el significado de cada clase y atributo:
@@ -2038,18 +2138,20 @@ Se usaron las siguientes source style y conventions para el desarrollo de landin
 En esta seccion, se tratara de explicar el procedimiento de despliege de nuestros proyectos como LandingPage, Backend y FrontEnd.
 
 ### LandingPage
-Para el despliege de nuestra landing page se escogio Git Page siendo una alternativa facil de usar y de configurar.
-* **Paso 1:** Para desplegar el landingPage hay que dirigirse al repositorio del landingPage y luego entrar a la opcion settings.
+Para el despliege de nuestra landing page se escogio Netlify siendo una alternativa facil de usar y de configurar.
+* **Paso 1:** Para desplegar el landingPage hay que seleccionar en "new site from git".
 <p align="center"> <img src="imgs/despliegueLanding1.png"> </p>
 
-* **Paso 2:** Ahora entraremos a la opcion de Pages donde seleccionaremos la rama que del proyecto que queremos desplegar.
+* **Paso 2:** Ahora seleccionamos el proveedor que en este caso sería Github importando un proyecto existente.
 <p align="center"> <img src="imgs/despliegueLanding2.png"> </p>
 
-* **Paso 3:** Es asi como debe quedar la seleccion de la rama
+* **Paso 3:** Concedemos permisos para acceder a los repositorios
 <p align="center"> <img src="imgs/despliegueLanding3.png"> </p>
 
-* **Paso 4:** Luego de esperar unos minutos la pagina del LandingPage se desplegara y aparecera la opcion de acceder a esta misma
+* **Paso 4:** Le colocamos un nombre y deployamos el landing page.
 <p align="center"> <img src="imgs/despliegueLanding4.png"> </p>
+
+<p align="center"> <img src="imgs/despliegueLanding5.png"> </p>
 
 
 ## **5.2. Landing Page, Services & Applications Implementation**
@@ -2387,6 +2489,299 @@ Durante este sprint se llevó a cabo la implementación de la landing page. Los 
 
 <p align="center"> <img src="imgs/Colaborattion3.png"> </p>
 
+
+## **5.2.2. Sprint 2**
+
+Para este Sprint 2 hemos tratado de avanzar los task pendientes con relación al Sprint 1, e ir modificando de mejor manera para el avance de nuestro proyecto.
+
+### **5.2.1.1. Sprint Planning 1**
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024-09-22</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>11:30 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Discord</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Rodrigo Salvador/td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                Alejandro Barturen,  Rodrigo Salvador
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint n Review Summary</td>
+            <td>
+                Corrección y mejora de los puntos de la TB1 en cada uno de sus capítulos. Se empezó con el desarrollo del despliegue del landing page y del web application.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint n Retrospective Summary</td>
+            <td>
+                En esta oportunidad se toma en cuenta el sacrificio de las personas pese a la falta de comunicación y trabajo en equipo, para tratar de sacar adelante este proyecto.
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint n Goal</td>
+            <td>
+                Elaboración del Sprint 2, Correción de los Capítulos  I, II, III, IV
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint n Velocity</td>
+            <td>
+                -
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                -
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+### **5.2.1.2. Sprint Backlog 1**
+
+<img alt="image" src="imgs/SprintBacklog2.png">
+
+Para esta entrega se distribuyeron otras 4 user stories para poder avanzar al ritmo del proyecto y de los integrantes.
+
+<table>
+    <thead>
+  <thead>
+    <tr>
+        <th>Sprint #</th>
+        <th colspan="7">Sprint 2</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">WorkItem / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status(To-do/In-Process/To-Review/Done)</th>
+    </tr>
+    <tr>
+        <td rowspan="1">US04</td>
+        <td rowspan="1">Análisis de Costos de Suministro</td>
+        <td>UT04</td>
+        <td>Análisis de costos</td>
+        <td>Apartado en donde se puede analizar los costos y la inversión realizada.</td>
+        <td>5</td>
+        <td>Rodrigo Salvador</td>
+        <td>In-Process</td>
+    </tr>
+      <tr>
+        <td rowspan="1">US07</td>
+        <td rowspan="1">Reportes de Oportunidad de Mejora</td>
+        <td>UT07</td>
+        <td>Reportes de Oportunidad</td>
+        <td>Se recibe comunicados mensuales acerca de oportunidades de mejora.</td>
+        <td>6</td>
+        <td>Rodrigo Salvador</td>
+        <td>To-do</td>
+    </tr>
+     <tr>
+        <td rowspan="1">US11</td>
+        <td rowspan="1">Registro de Operarios</td>
+        <td>UT11</td>
+        <td>Registro de Operarios</td>
+        <td>Registra a aquellas personas que desees contar en la gestión de manufactura.</td>
+        <td>6</td>
+        <td>Rodrigo Salvador</td>
+        <td>In-Process</td>
+    </tr>
+    <tr>
+        <td rowspan="1">US14</td>
+        <td rowspan="1">Evaluación de Proveedores</td>
+        <td>UT14</td>
+        <td>Parthner</td>
+        <td>Dar reseñas y comentarios personales acerca de los proveedores en base a tu experiencia.</td>
+        <td>4</td>
+        <td>Rodrigo Salvador</td>
+        <td>To-Review</td>
+    </tr>
+  </thead>
+    </thead>
+</table>
+
+Link del trello:[Sprint Backlog 2](https://trello.com/invite/b/66f3f19d834fa642e89d078a/ATTI71b8e33e3ef25b6d0e7ef6dbbd009f847C884B56/sprint-backlog-2)
+
+### **5.2.1.3. Development Evidence for Sprint Review**
+La evidencia del desarrollo del sprint refleja el progreso alcanzado en la implementación de las funcionalidades planificadas, asegurando que los objetivos establecidos fueran cumplidos de manera efectiva. Se trabajó en optimizar cada componente, garantizando una alineación con los requerimientos del proyecto. A continuación, se presentan capturas de pantalla que documentan los avances realizados durante el sprint.
+
+<p align="center"> <img src="imgs/DevelopmentEvidence1.png"> </p>
+
+<p align="center"> <img src="imgs/DevelopmentEvidence2.png"> </p>
+
+<p align="center"> <img src="imgs/DevelopmentEvidence3.png"> </p>
+
+### **5.2.1.4. Testing Suite Evidence for Sprint Review**
+Debido a la falta de clases y las relaciones entre ellas, ni las pruebas de unidad ni las pruebas de integración se han generado para este sprint 2. Sin embargo, si se pueden realizar pruebas de aceptación para los requisitos planteados.
+
+### US04
+ ```gherkin
+Feature: Análisis de Costos de Suministro
+
+  Scenario: Identificación de patrones
+    Given Tengo acceso a la herramienta de gráficos de desempeño
+    When Visualizo los datos históricos de los costos de suministro
+    Then Puedo identificar patrones y tendencias en los costos.
+
+    Examples:
+      | Año      | Costo Total |
+      | "2022"   | "150,000"   |
+      | "2023"   | "200,000"   |
+
+ Scenario: Filtros para análisis específico
+    Given Tengo varios filtros disponibles para el análisis
+    When Aplico un filtro específico
+    Then Los gráficos se actualizan para reflejar únicamente los datos relevantes al filtro aplicado.
+
+    Examples:
+      | Filtro             | Resultado |
+      | "Costos > 100,000" | "Muestra años 2022 y 2023" |
+      | "Costos < 50,000"  | "No hay datos disponibles"  |
+
+ ```
+
+### US07
+ ```gherkin
+Feature: Reportes de Oportunidades de Mejora
+
+  Scenario: Inclusión de recomendaciones
+    Given Tengo acceso a los datos operativos
+    When Se genera el reporte mensual de oportunidades de mejora
+    Then El reporte incluirá automáticamente recomendaciones de mejora basadas en los datos operativos.
+
+    Examples:
+      | Operación          | Recomendación               |
+      | "Producción baja"  | "Aumentar eficiencia"       |
+      | "Alto consumo de energía" | "Optimizar maquinaria" |
+
+ ```
+
+### US11
+ ```gherkin
+Feature: Registro de Operarios
+
+  Scenario: Se registró un operario
+    Given Estoy en la pantalla de registro de operarios
+    When Ingreso los datos correctos del operario (nombre, rol, email, contraseña)
+    And Presiono el botón de "Registrar"
+    Then El operario se registra correctamente en el sistema
+    And Aparece un mensaje de confirmación "Operario registrado exitosamente".
+
+    Examples:
+      | Nombre     | Rol    | Email                  |
+      | "Carlos"   | "Jefe" | "carlos@empresa.com"   |
+      | "Ana"      | "Operario" | "ana@empresa.com" |
+
+  Scenario: Fallo al registrar operario
+    Given Estoy en la pantalla de registro de operarios
+    When Ingreso datos incorrectos o incompletos del operario
+    And Presiono el botón de "Registrar"
+    Then Aparece un mensaje de error indicando "Fallo al registrar operario, verifique los datos ingresados".
+
+    Examples:
+      | Nombre   | Rol      | Email                  |
+      | ""       | "Jefe"   | "carlos@empresa.com"   |
+      | "Ana"    | ""       | "ana@empresa.com"      |
+
+ ```
+
+### US14
+ ```gherkin
+Feature: Evaluación de Proveedores
+
+  Scenario: Comparativa de proveedores
+    Given Tengo una lista de proveedores con sus métricas de desempeño
+    When Selecciono varios proveedores
+    Then Puedo ver una comparación detallada de su desempeño.
+
+    Examples:
+      | Proveedor       | Tiempo de entrega | Costo Unitario |
+      | "Proveedor A"   | "5 días"          | "20 USD"       |
+      | "Proveedor B"   | "3 días"          | "25 USD"       |
+
+  Scenario: Filtrado por criterios específicos
+    Given Tengo varios criterios de evaluación disponibles
+    When Aplico un filtro basado en esos criterios
+    Then Solo se muestran los proveedores que cumplen con los criterios seleccionados.
+
+    Examples:
+      | Criterio         | Resultado          |
+      | "Tiempo < 4 días" | "Proveedor B"      |
+      | "Costo < 22 USD"  | "Proveedor A"      |
+
+
+ ```
+
+
+### **5.2.1.5. Execution Evidence for Sprint Review**
+Durante el primer sprint se trabajó en el diseño y desarrollo de la Landing Page, enfocándose en una interfaz atractiva y funcional que facilite la navegación y comprensión del servicio. Se priorizó la usabilidad y claridad del contenido para mejorar la experiencia del usuario. A continuación, se muestran capturas de pantalla como evidencia del avance logrado en esta etapa.
+
+<p align="center"> <img src="imgs/ExecutionEvidence1.png"> </p>
+
+<p align="center"> <img src="imgs/ExecutionEvidence2.png"> </p>
+
+<p align="center"> <img src="imgs/ExecutionEvidence3.png"> </p>
+
+### **5.2.1.6. Services Documentation Evidence for Sprint Review**
+> [!NOTE]
+> No aplica para esta entrega.
+
+### **5.2.1.7. Software Deployment Evidence for Sprint Review**
+La evidencia del correcto despliegue de la landing page se presenta a través de una serie de capturas de pantalla que muestran el proceso completo, desde la configuración inicial hasta la publicación final, asegurando que todos los componentes funcionan conforme a lo planificado. Estas imágenes documentan paso a paso la implementación y validación del despliegue, garantizando una experiencia óptima para los usuarios.
+
+<p align="center"> <img src="imgs/SoftwareDeploymentEvidence1.png"> </p>
+
+<p align="center"> <img src="imgs/SoftwareDeploymentEvidence2.png"> </p>
+
+<p align="center"> <img src="imgs/SoftwareDeploymentEvidence3.png"> </p>
+
+### **5.2.1.8. Team Collaboration Insights during Sprint**
+Durante este sprint se llevó a cabo la implementación del frontend, además del despliegue de la landing page y web application. Algunos miembros del equipo contribuyeron con el proyecto, realizando sus aportes y commits en Github, lo que permitió un trabajo más realista y detallado de los avances de cada integrante del equipo.
+
+<p align="center"> <img src="imgs/Colaborattion1.png"> </p>
+
+<p align="center"> <img src="imgs/Colaborattion2.png"> </p>
+
+<p align="center"> <img src="imgs/Colaborattion3.png"> </p>
+
+
+
 # **Conclusiones y recomendaciones**
 El primer sprint de EcoRoute ha sido un paso crucial en la construcción de nuestra plataforma para optimizar cadenas de suministro sostenibles. Durante esta fase, el equipo se centró en el desarrollo de la landing page, que ha permitido establecer una base sólida para la presentación y promoción de la aplicación. A partir del trabajo realizado hasta ahora, se han identificado dos puntos clave:
 -  La implementación de la landing page ha demostrado ser un componente efectivo para captar el interés de los usuarios y proporcionar información esencial sobre la aplicación. Esta etapa ha permitido validar el diseño y la funcionalidad básica, asegurando que los visitantes puedan acceder fácilmente a la información y entender el propósito de EcoRoute.
@@ -2410,4 +2805,9 @@ Condiciones de vida en el Perú: impacto económico de los servicios de cuidado 
 > [!NOTE]
 > ANEXO A
 > Video de Exposición del TB1: link
+> Landing Page Deployada: https://main--magenta-truffle-ccda4a.netlify.app/
+>
+> > [!NOTE]
+> ANEXO A
+> Video de Exposición del TP1: link[URL]()
 > Landing Page: https://main--magenta-truffle-ccda4a.netlify.app/
