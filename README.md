@@ -2678,14 +2678,86 @@ Para esta entrega se distribuyeron otras 4 user stories para poder avanzar al ri
 Link del trello:[Sprint Backlog 2](https://trello.com/invite/b/66f3f19d834fa642e89d078a/ATTI71b8e33e3ef25b6d0e7ef6dbbd009f847C884B56/sprint-backlog-2)
 
 ### **5.2.2.3. Development Evidence for Sprint Review**
-La evidencia del desarrollo del sprint refleja el progreso alcanzado en la implementación de las funcionalidades planificadas, asegurando que los objetivos establecidos fueran cumplidos de manera efectiva. Se trabajó en optimizar cada componente, garantizando una alineación con los requerimientos del proyecto. A continuación, se presentan capturas de pantalla que documentan los avances realizados durante el sprint.
+En esta parte se muestran los commits realizados durante el segundo sprint.
 
-<p align="center"> <img src="imgs/DevelopmentEvidence1.png"> </p>
+| Repository | Branch | Commit Id | Commit Message | Commit on (Date) |
+|------------|--------|-----------|----------------|------------------|
+|FrontEnd | main | 384c799 | fix: route changed | 2024-09-25
+|FrontEnd | main | fe2de25 | ci: add Azure Static Web Apps workflow file on-behalf-of: @Azure opensource@microsoft.com | 2024-09-25
+|FrontEnd | main | be2c053 | Delete src/app/admin/workers/a | 2024-09-25
+|FrontEnd | main | 360751f | Delete src/app/admin/summary/a | 2024-09-25
+|FrontEnd | main | 031279b | Add files via upload | 2024-09-25
+|FrontEnd | main | 1250af3 | Add files via upload | 2024-09-25
+|FrontEnd | main | 32b4114 | Delete src/app/admin/partner/a | 2024-09-25
+|FrontEnd | main | afcd7c2 | Add files via upload | 2024-09-25
+|FrontEnd | main | f4caa96 | Delete src/app/admin/profile/a | 2024-09-25
+|FrontEnd | main | 3160f78 | Add files via upload | 2024-09-25
+|FrontEnd | main | 446fd24 | Create a | 2024-09-25
+|FrontEnd | main | 6caa128 | Create a | 2024-09-25
+|FrontEnd | main | 9f8d6e8 | Delete src/app/admin/profile directory | 2024-09-25
+|FrontEnd | main | 60330e5 | Delete src/app/admin/partner/a | 2024-09-25
+|FrontEnd | main | 616d167 | Add files via upload | 2024-09-25
+|FrontEnd | main | 3868c1c | Delete src/app/admin/admin.module.ts | 2024-09-25
+|FrontEnd | main | 6932de4 | Delete src/app/admin/admin-routing.module.ts | 2024-09-25
+|FrontEnd | main | 4cc7387 | Create a | 2024-09-25
+|FrontEnd | main | 3bcbf45 | Create a | 2024-09-25
+|FrontEnd | main | 29db327 | Create a | 2024-09-25
+|FrontEnd | main | bae1dd9 | Create a | 2024-09-25
+|FrontEnd | main | 5f9fec8 | Delete src/app/admin/dashboard directory | 2024-09-25
+|FrontEnd | main | 921273d | Add files via upload | 2024-09-25
+|FrontEnd | main | eaf003f | Delete src/styles.css | 2024-09-25
+|FrontEnd | main | a567c17 | Delete src/routes.json | 2024-09-25
+|FrontEnd | main | 88b2cfb | Delete src/main.ts | 2024-09-25
+|FrontEnd | main | d91a010 | Delete src/index.html | 2024-09-25
+|FrontEnd | main | 958e060 | Add files via upload | 2024-09-25
+|FrontEnd | main | 178b39b | Delete tsconfig.spec.json | 2024-09-25
+|FrontEnd | main | 7475c5b | Delete tsconfig.app.json | 2024-09-25
+|FrontEnd | main | f55cec7 | Delete tsconfig.json | 2024-09-25
+|FrontEnd | main | 424bd5c | Delete package.json | 2024-09-25
+|FrontEnd | main | 68ae8f1 | Delete package-lock.json | 2024-09-25
+|FrontEnd | main | 33d56b6 | Delete angular.json | 2024-09-25
+|FrontEnd | main | 585ce62 | Delete README.md | 2024-09-25
+|FrontEnd | main | b7173f6 | Delete .gitignore | 2024-09-25
+|FrontEnd | main | 7d8d69d | Delete .editorconfig | 2024-09-25
+|FrontEnd | main | f2c73ba | Add files via upload | 2024-09-25
+|FrontEnd | main | 614d8ac | Delete .vscode/a | 2024-09-25
+|FrontEnd | main | fb0abe6 | Delete .github/workflows directory | 2024-09-25
+|FrontEnd | main | 1007b0c | ci: add Azure Static Web Apps workflow file on-behalf-of: @Azure opensource@microsoft.com | 2024-09-25
+|FrontEnd | main | ae84434 | ci: add Azure Static Web Apps workflow file on-behalf-of: @Azure opensource@microsoft.com | 2024-09-25
+|FrontEnd | main | 59a1b6b | Delete src/app/auth/register/jhgffg | 2024-09-25
+|FrontEnd | main | ff462ec | Add files via upload | 2024-09-25
+|FrontEnd | main | 4de3adb | Create jhgffg | 2024-09-25
+|FrontEnd | main | 4f986b6 | Delete src/app/auth/asdasd | 2024-09-25
+|FrontEnd | main | a7774a2 | Add files via upload | 2024-09-25
+|FrontEnd | main | f113ae5 | Add files via upload | 2024-09-25
+|FrontEnd | main | 22847b9 | Create fdsfdfd | 2024-09-25
+|FrontEnd | main | 9570fee | Delete src/app/admin/plans/wer | 2024-09-25
+|FrontEnd | main | 330f0b6 | Add files via upload | 2024-09-25
+|FrontEnd | main | 2a4224d | Create wer | 2024-09-25
+|FrontEnd | main | 1d7f38e | Delete src/app/admin/dashboard/asddesf | 2024-09-25
+|FrontEnd | main | 47fd107 | Add files via upload | 2024-09-25
+|FrontEnd | main | 3f431aa | Create asddesf | 2024-09-24
+|FrontEnd | main | d1e028d | Delete src/app/admin/sadasdd | 2024-09-24
+|FrontEnd | main | ab2076a | Add files via upload | 2024-09-24
+|FrontEnd | main | 7b7814b | Add files via upload | 2024-09-24
+|FrontEnd | main | ba4c8b3 | Create a | 2024-09-24
+|FrontEnd | main | 7455ba0 | Add files via upload | 2024-09-24
+|FrontEnd | main | b94582b | Delete src/app/a | 2024-09-24
+|FrontEnd | main | 2f02232 | Create asdasd | 2024-09-24
+|FrontEnd | main | e1e3106 | Create sadasdd | 2024-09-24
+|FrontEnd | main | 163ad54 | Create a | 2024-09-24
+|FrontEnd | main | 565098b | Delete src/a | 2024-09-24
+|FrontEnd | main | 2467ca5 | Add files via upload | 2024-09-24
+|FrontEnd | main | 4357215 | Create a | 2024-09-24
+|FrontEnd | main | feeaaaa | Delete src | 2024-09-24
+|FrontEnd | main | 2b691dd | Create src | 2024-09-24
+|FrontEnd | main | 6502478 | Delete src | 2024-09-24
+|FrontEnd | main | 4823aa4 | Delete a | 2024-09-24
+|FrontEnd | main | aa92305 | Create src | 2024-09-24
+|FrontEnd | main | 860bf86 | Add files via upload | 2024-09-24
+|FrontEnd | main | 0da63a2 | Create a | 2024-09-24|
 
-<p align="center"> <img src="imgs/DevelopmentEvidence2.png"> </p>
-
-<p align="center"> <img src="imgs/DevelopmentEvidence3.png"> </p>
-
+  
 ### **5.2.2.4. Testing Suite Evidence for Sprint Review**
 Debido a la falta de clases y las relaciones entre ellas, ni las pruebas de unidad ni las pruebas de integración se han generado para este sprint 2. Sin embargo, si se pueden realizar pruebas de aceptación para los requisitos planteados.
 
