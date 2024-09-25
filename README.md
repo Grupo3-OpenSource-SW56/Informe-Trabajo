@@ -2410,4 +2410,4 @@ Condiciones de vida en el Perú: impacto económico de los servicios de cuidado 
 > [!NOTE]
 > ANEXO A
 > Video de Exposición del TB1: link
-
+> Landing Page: https://main--magenta-truffle-ccda4a.netlify.app/
