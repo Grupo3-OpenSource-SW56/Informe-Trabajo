@@ -1118,10 +1118,11 @@ User Persona: Laura Martinez
   </tr>
   <tr>
     <td>US11</td>
-    <td>Optimización de Procesos Productivos</td>
-    <td>Como gerente de una Empresa de Manufactura Quiero  identificar procesos ineficientes en tiempo real Para mejorar el flujo de trabajo</td>
-    <td>Escenario 1: Detección de cuellos de botella<br>Dado los datos de producción, cuando detecto un cuello de botella, entonces se sugiere una acción correctiva.<br>Escenario 2: Implementación de mejoras en tiempo real.<br>Dado una sugerencia de optimización, cuando aplico la mejora, entonces puedo ver una mejora inmediata en el flujo de trabajo</td>
-    <td>EP04</td>
+    <td>Registro de operarios</td>
+    <td>Como gerente de una Empresa de Manufactura Quiero  registrar a mis operarios Para que puedan acceder al sistema</td>
+    <td>Escenario 1: Se registró un operario<br>Dado que estoy en la pantalla de registro de operarios, Cuando ingreso los datos correctos del operario (nombre, rol, email, contraseña, etc.) y presiono el botón de "Registrar", Entonces el operario se registra correctamente en el sistema, y aparece un mensaje de confirmación indicando "Operario registrado exitosamente". <br>Escenario 2: Fallo al registrar usuario.<br>Dado que estoy en la pantalla de registro de operarios, Cuando ingreso los datos correctos del operario (nombre, rol, email, contraseña, etc.) y presiono el botón de "Registrar", Entonces el operario se registra correctamente en el sistema, y aparece un mensaje de confirmación indicando "Operario registrado exitosamente".
+</td>
+    <td>EP13</td>
   </tr>
   <tr>
     <td>US12</td>
@@ -1139,7 +1140,7 @@ User Persona: Laura Martinez
   </tr>
   <tr>
     <td>US14</td>
-    <td>Evaluación Comparativa de Proveedores</td>
+    <td>Evaluación de Proveedores</td>
     <td>Como gerente de una Empresa de Manufactura Quiero  comparar el desempeño de diferentes proveedores Para  elegir aquellos que se alineen mejor con los objetivos de la empresa</td>
     <td>Escenario 1: Comparativa de proveedores<br>Dado una lista de proveedores y sus métricas, cuando selecciono diferentes proveedores, entonces puedo ver una comparación de su desempeño.<br><br>Escenario 2: Filtrado por criterios específicos<br>Dado varios criterios de evaluación, cuando aplico un filtro, entonces sólo se muestran los proveedores que cumplen con esos criterios</td>
     <td>EP05</td>
@@ -1406,7 +1407,7 @@ User Persona: Laura Martinez
 |3|US05|Reporte de Impacto Ambiental de Proveedores|**Como** gerente de una Empresa de Manufactura **Quiero** recibir un reporte mensual del impacto ambiental de cada proveedor **Para** tomar decisiones de selección y descontinuación.|3|
 |4|US06|Alertas de Inventario Bajo|**Como** gerente de una Empresa de Manufactura **Quiero** recibir alertas cuando los niveles de inventario estén bajos **Para** evitar desabastecimientos críticos.|3|
 |5|US10|Control de Calidad Automático|**Como** gerente de una Empresa de Manufactura **Quiero** recibir notificaciones automáticas cuando se detecten desviaciones **Para** tomar medidas inmediatas de corrección.|3|
-|6|US11|Optimización de Procesos Productivos|**Como** gerente de una Empresa de Manufactura **Quiero** identificar procesos ineficientes en tiempo real **Para** mejorar el flujo de trabajo.|3|
+|6|US11|Registro de Operarios|**Como** gerente de una Empresa de Manufactura **Quiero** registrar a mis operarios **Para** que puedan acceder al sistema.|3|
 |7|US16|Estimación de demanda de inventario|**Como** gerente de una Empresa de Manufactura **Quiero** pronosticar la demanda de inventario **Para** planificar mejor las compras de materiales.|5|
 |8|US17|Sistema de Feedback de Empleados en Planta|**Como** gerente de una Empresa de Manufactura **Quiero** implementar un sistema de feedback de empleados en planta **Para** mejorar continuamente los procesos|3|
 |9|US18|Gestión de Recursos Humanos en Planta|**Como** gerente de una Empresa de Manufactura **Quiero** gestionar los recursos humanos en planta de manera eficiente **Para** maximizar la productividad.|5|
@@ -1421,7 +1422,7 @@ User Persona: Laura Martinez
 |18|US09|Gestión de Proveedores con Certificación Verde|**Como** gerente de una Empresa de Manufactura **Quiero** filtrar proveedores que tienen certificaciones ecológicas **Para** asegurarme de cumplir con los estándares de sostenibilidad.|5|
 |19|US12|Control de Desperdicio de Materiales|**Como** gerente de una Empresa de Manufactura **Quiero** monitorear el desperdicio de materiales **Para** minimizar pérdidas y mejorar la eficiencia.|5|
 |20|US13|Visualización de Desempeño de Proveedores|**Como** gerente de una Empresa de Manufactura **Quiero** visualizar el desempeño histórico de los proveedores **Para** tomar decisiones estratégicas sobre su continuidad.|2|
-|21|US14|Evaluación Comparativa de Proveedores|**Como** gerente de una Empresa de Manufactura **Quiero** comparar el desempeño de diferentes proveedores **Para** elegir aquellos que se alineen mejor con los objetivos de la empresa.|3|
+|21|US14|Evaluación de Proveedores|**Como** gerente de una Empresa de Manufactura **Quiero** comparar el desempeño de diferentes proveedores **Para** elegir aquellos que se alineen mejor con los objetivos de la empresa.|3|
 |22|US15|Sistema de Incentivos por Desempeño|**Como** gerente de una Empresa de Manufactura **Quiero** implementar un sistema de incentivos basado en el desempeño **Para** motivar a los empleados.|1|
 |23|US20|Informes de Rendimiento de Rutas|**Como** gerente de una Empresa de Logística y Transporte **Quiero** recibir informes detallados sobre el rendimiento de rutas **Para** optimizar el uso de recursos.|3|
 |24|US22|Comunicación Directa con Conductores|**Como** gerente de una Empresa de Logística y Transporte **Quiero** enviar mensajes directos a los conductores **Para** notificar cambios de ruta o instrucciones específicas.|3|
@@ -2635,7 +2636,7 @@ Para esta entrega se distribuyeron otras 4 user stories para poder avanzar al ri
     </thead>
 </table>
 
-Link del trello: [Sprint Backlog 2]((https://trello.com/invite/b/66f3f19d834fa642e89d078a/ATTI71b8e33e3ef25b6d0e7ef6dbbd009f847C884B56/sprint-backlog-2))
+Link del trello:[Sprint Backlog 2](https://trello.com/invite/b/66f3f19d834fa642e89d078a/ATTI71b8e33e3ef25b6d0e7ef6dbbd009f847C884B56/sprint-backlog-2)
 
 ### **5.2.1.3. Development Evidence for Sprint Review**
 La evidencia del desarrollo del sprint refleja el progreso alcanzado en la implementación de las funcionalidades planificadas, asegurando que los objetivos establecidos fueran cumplidos de manera efectiva. Se trabajó en optimizar cada componente, garantizando una alineación con los requerimientos del proyecto. A continuación, se presentan capturas de pantalla que documentan los avances realizados durante el sprint.
@@ -2647,140 +2648,106 @@ La evidencia del desarrollo del sprint refleja el progreso alcanzado en la imple
 <p align="center"> <img src="imgs/DevelopmentEvidence3.png"> </p>
 
 ### **5.2.1.4. Testing Suite Evidence for Sprint Review**
-Debido a la falta de clases y las relaciones entre ellas, ni las pruebas de unidad ni las pruebas de integración se han generado para este sprint 1. Sin embargo, si se pueden realizar pruebas de aceptación para los requisitos planteados.
+Debido a la falta de clases y las relaciones entre ellas, ni las pruebas de unidad ni las pruebas de integración se han generado para este sprint 2. Sin embargo, si se pueden realizar pruebas de aceptación para los requisitos planteados.
 
-### US01
+### US04
  ```gherkin
-Feature: Solicitud de Información
+Feature: Análisis de Costos de Suministro
 
-  Scenario: Envío exitoso de mensaje
-    Given Soy un visitante de la landing page
-    When Ingreso mi información y pregunta en el formulario de contacto
-    And Envío el mensaje
-    Then La información es enviada correctamente a los desarrolladores
-
-    Examples:
-      | Información           | Pregunta               |
-      | "Juan Pérez, email@ejemplo.com" | "¿Cómo puedo beneficiarme con esta plataforma?" |
-      | "Ana López, ana@correo.com"    | "¿Cuáles son los planes de precios?"              |
-
-  Scenario: Error en el envío de la información
-    Given Soy un visitante de la landing page
-    When Ingreso mi información y pregunta en el formulario de contacto
-    And Intento enviar el mensaje
-    Then Recibo un mensaje de error y se me sugiere intentar de nuevo más tarde
+  Scenario: Identificación de patrones
+    Given Tengo acceso a la herramienta de gráficos de desempeño
+    When Visualizo los datos históricos de los costos de suministro
+    Then Puedo identificar patrones y tendencias en los costos.
 
     Examples:
-      | Información           | Pregunta               |
-      | "Pedro Martínez, pedro@correo.com" | "¿Hay una versión demo?"              |
-      | "María Gómez, maria@correo.com"   | "¿Cuál es el soporte técnico?"        |
+      | Año      | Costo Total |
+      | "2022"   | "150,000"   |
+      | "2023"   | "200,000"   |
+
+ Scenario: Filtros para análisis específico
+    Given Tengo varios filtros disponibles para el análisis
+    When Aplico un filtro específico
+    Then Los gráficos se actualizan para reflejar únicamente los datos relevantes al filtro aplicado.
+
+    Examples:
+      | Filtro             | Resultado |
+      | "Costos > 100,000" | "Muestra años 2022 y 2023" |
+      | "Costos < 50,000"  | "No hay datos disponibles"  |
 
  ```
 
-### US02
+### US07
  ```gherkin
-Feature: Acceso rápido a información clave
+Feature: Reportes de Oportunidades de Mejora
 
-  Scenario: Encontrar rápidamente información clave
-    Given Estoy en la landing page
-    When Navego por la página
-    Then Veo los puntos destacados en la parte superior
-
-    Examples:
-      | Sección                |
-      | "Beneficios de la plataforma" |
-      | "Características principales" |
-
-  Scenario: No encuentro información clave
-    Given Estoy en la landing page
-    When Navego por la página
-    Then No puedo encontrar los puntos destacados
+  Scenario: Inclusión de recomendaciones
+    Given Tengo acceso a los datos operativos
+    When Se genera el reporte mensual de oportunidades de mejora
+    Then El reporte incluirá automáticamente recomendaciones de mejora basadas en los datos operativos.
 
     Examples:
-      | Sección                |
-      | "Sección no disponible" |
-      | "Enlace roto"           |
+      | Operación          | Recomendación               |
+      | "Producción baja"  | "Aumentar eficiencia"       |
+      | "Alto consumo de energía" | "Optimizar maquinaria" |
 
  ```
 
-### US03
+### US11
  ```gherkin
-Feature: Redirección a la plataforma
+Feature: Registro de Operarios
 
-  Scenario: Redirección exitosa a la plataforma
-    Given Estoy en la landing page
-    When Hago clic en el logo de la plataforma
-    Then Soy redirigido a la página de inicio de la plataforma
-
-    Examples:
-      | Enlace                  |
-      | "Logo de la plataforma"  |
-      | "Botón 'Ir a la plataforma'" |
-
-  Scenario: Error en la redirección
-    Given Estoy en la landing page
-    When Hago clic en un enlace roto o inactivo
-    Then Recibo un mensaje de error y se me sugiere intentar de nuevo más tarde o contactar al soporte
+  Scenario: Se registró un operario
+    Given Estoy en la pantalla de registro de operarios
+    When Ingreso los datos correctos del operario (nombre, rol, email, contraseña)
+    And Presiono el botón de "Registrar"
+    Then El operario se registra correctamente en el sistema
+    And Aparece un mensaje de confirmación "Operario registrado exitosamente".
 
     Examples:
-      | Enlace                  |
-      | "Logo inactivo"          |
-      | "Botón 'Ir a la plataforma' roto" |
+      | Nombre     | Rol    | Email                  |
+      | "Carlos"   | "Jefe" | "carlos@empresa.com"   |
+      | "Ana"      | "Operario" | "ana@empresa.com" |
+
+  Scenario: Fallo al registrar operario
+    Given Estoy en la pantalla de registro de operarios
+    When Ingreso datos incorrectos o incompletos del operario
+    And Presiono el botón de "Registrar"
+    Then Aparece un mensaje de error indicando "Fallo al registrar operario, verifique los datos ingresados".
+
+    Examples:
+      | Nombre   | Rol      | Email                  |
+      | ""       | "Jefe"   | "carlos@empresa.com"   |
+      | "Ana"    | ""       | "ana@empresa.com"      |
+
+ ```
+
+### US14
+ ```gherkin
+Feature: Evaluación de Proveedores
+
+  Scenario: Comparativa de proveedores
+    Given Tengo una lista de proveedores con sus métricas de desempeño
+    When Selecciono varios proveedores
+    Then Puedo ver una comparación detallada de su desempeño.
+
+    Examples:
+      | Proveedor       | Tiempo de entrega | Costo Unitario |
+      | "Proveedor A"   | "5 días"          | "20 USD"       |
+      | "Proveedor B"   | "3 días"          | "25 USD"       |
+
+  Scenario: Filtrado por criterios específicos
+    Given Tengo varios criterios de evaluación disponibles
+    When Aplico un filtro basado en esos criterios
+    Then Solo se muestran los proveedores que cumplen con los criterios seleccionados.
+
+    Examples:
+      | Criterio         | Resultado          |
+      | "Tiempo < 4 días" | "Proveedor B"      |
+      | "Costo < 22 USD"  | "Proveedor A"      |
 
 
  ```
 
-### US06
- ```gherkin
-Feature: Alertas de Inventario Bajo
-
-  Scenario: Alerta de inventario bajo
-    Given Hay un nivel mínimo de inventario definido
-    When El stock cae por debajo de este nivel
-    Then Se envía automáticamente una alerta
-
-    Examples:
-      | Producto       | Nivel mínimo |
-      | "Producto A"   | 100 unidades |
-      | "Producto B"   | 50 unidades  |
-
-  Scenario: Confirmación de recepción de la alerta
-    Given He recibido una alerta de inventario bajo
-    When Abro la notificación
-    Then Confirmo que he recibido la alerta y tomo acción
-
-    Examples:
-      | Producto       | Acciones tomadas         |
-      | "Producto A"   | "Reordenar stock"        |
-      | "Producto B"   | "Aumentar producción"    |
-
- ```
-
-### US08
- ```gherkin
-Feature: Chat de Comunicación Interna
-
-  Scenario: Acceso y uso del chat
-    Given Estoy en la plataforma
-    When Accedo al chat
-    Then Puedo enviar y recibir mensajes en tiempo real a cualquier miembro de la empresa
-
-    Examples:
-      | Usuario        | Mensaje                 |
-      | "Gerente A"    | "Reunión mañana a las 10" |
-      | "Empleado B"   | "Necesito más materiales" |
-
-  Scenario: Notificaciones de nuevos mensajes
-    Given Estoy fuera del chat
-    When Recibo un nuevo mensaje
-    Then Recibo una notificación en la plataforma
-
-    Examples:
-      | Usuario        | Notificación             |
-      | "Gerente A"    | "Nuevo mensaje de la sala de producción" |
-      | "Empleado B"   | "Nuevo mensaje del supervisor"           |
-
- ```
 
 ### **5.2.1.5. Execution Evidence for Sprint Review**
 Durante el primer sprint se trabajó en el diseño y desarrollo de la Landing Page, enfocándose en una interfaz atractiva y funcional que facilite la navegación y comprensión del servicio. Se priorizó la usabilidad y claridad del contenido para mejorar la experiencia del usuario. A continuación, se muestran capturas de pantalla como evidencia del avance logrado en esta etapa.
@@ -2805,7 +2772,7 @@ La evidencia del correcto despliegue de la landing page se presenta a través de
 <p align="center"> <img src="imgs/SoftwareDeploymentEvidence3.png"> </p>
 
 ### **5.2.1.8. Team Collaboration Insights during Sprint**
-Durante este sprint se llevó a cabo la implementación de la landing page. Los miembros del equipo contribuyeron activamente al proyecto, realizando sus aportes mediante commits registrados en la herramienta GitHub, lo que permitió un trabajo colaborativo eficiente y controlado en el desarrollo del sprint. A continuación, se presenta capturas de pantalla del mismo:
+Durante este sprint se llevó a cabo la implementación del frontend, además del despliegue de la landing page y web application. Algunos miembros del equipo contribuyeron con el proyecto, realizando sus aportes y commits en Github, lo que permitió un trabajo más realista y detallado de los avances de cada integrante del equipo.
 
 <p align="center"> <img src="imgs/Colaborattion1.png"> </p>
 
@@ -2838,4 +2805,9 @@ Condiciones de vida en el Perú: impacto económico de los servicios de cuidado 
 > [!NOTE]
 > ANEXO A
 > Video de Exposición del TB1: link
+> Landing Page Deployada: https://main--magenta-truffle-ccda4a.netlify.app/
+>
+> > [!NOTE]
+> ANEXO A
+> Video de Exposición del TP1: link[URL]()
 > Landing Page: https://main--magenta-truffle-ccda4a.netlify.app/
