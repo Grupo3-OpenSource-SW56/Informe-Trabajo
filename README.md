@@ -129,6 +129,12 @@
         <td>Rodrigo Jesús Salvador Rodríguez - U202213646</td>
         <td>Implementación del Software Architecture Context Diagram y Software Architecture Container Diagrams.</td>
     </tr>
+   <tr>
+        <td>1.13</td>
+        <td>25/09/2024</td>
+        <td>Rodrigo Jesús Salvador Rodríguez - U202213646</td>
+        <td>Correcciones de la TB1, implementación del sprint backlog 2, desarrollo del front-end y landing page.</td>
+    </tr>
 </table>
 
 # <font color="red">**Project Report Collaboration Insights**</font>
@@ -268,7 +274,7 @@ URL del repositorio de la Organizacion: <https://github.com/Grupo3-OpenSource-SW
 
 |Criterio especifico|Acciones realizadas|Conclusiones|
 |-|:-|-|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Rodrigo Salvador** <br> TB1: En esta entrega se realizó la definición de la Startup Profile, Impact Mapping, Product Backlog, Sprint Planning y Sprint Backlog 1. Una característica a tomar en cuenta  es la alineación de objetivos estratégicos con tareas específicas, priorizando funcionalidades esenciales para maximizar el valor del producto. <br> <br> **Piero Martinez** <br> TB1: En esta entrega realizó el Style Guidelines, ayudó a complementar el sprint 1, presento la entrevista #4 y realizó correcciones generales. El progreso realizado en este primer trabajo evidencia la exigencia del proyecto, el cual requiere un analisis constante de cada una de las caracteristicas que lo consolidan para elaborar un trabajo existoso. <br> <br> **Alejandro Barturen** <br> TB1:En esta entrega se realizaron con exito la creacion de las user story, y el tobe mapping y la definicion complerta sobre la identidad de nuestro startup y su definicion de sus competidores .Cabe resaltar que se hizo un arduo proceso de seleccion para que toda la informacion tenga sentido con nuestra propuesta y entre si   |Se logró realizar un trabajo a tiempo y aceptable, pues cumplimos con todas las partes del trabajo, de tal manera que se pueda entregar un trabajo digno. El documento elaborado proporciona una referencia escrita para quienes busquen entender en profundidad los procesos de planificación, desarrollo y despliegue del proyecto en elaboración y corrección constante. |
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Rodrigo Salvador** <br> TB1: En esta entrega se realizó la definición de la Startup Profile, Impact Mapping, Product Backlog, Sprint Planning y Sprint Backlog 1. Una característica a tomar en cuenta  es la alineación de objetivos estratégicos con tareas específicas, priorizando funcionalidades esenciales para maximizar el valor del producto. TP1: En esta entrega se realizó el desarrollo del frontend y el landing page deployados, además de las correcciones dadas en la primera entrega (TB1) y prioricé el desarrollo de este a pesar de las desventajas presentadas. <br> <br> **Piero Martinez** <br> TB1: En esta entrega realizó el Style Guidelines, ayudó a complementar el sprint 1, presento la entrevista #4 y realizó correcciones generales. El progreso realizado en este primer trabajo evidencia la exigencia del proyecto, el cual requiere un analisis constante de cada una de las caracteristicas que lo consolidan para elaborar un trabajo existoso. <br> <br> **Alejandro Barturen** <br> TB1:En esta entrega se realizaron con exito la creacion de las user story, y el tobe mapping y la definicion complerta sobre la identidad de nuestro startup y su definicion de sus competidores .Cabe resaltar que se hizo un arduo proceso de seleccion para que toda la informacion tenga sentido con nuestra propuesta y entre si   |Se logró realizar un trabajo a tiempo y aceptable, pues cumplimos con todas las partes del trabajo, de tal manera que se pueda entregar un trabajo digno. El documento elaborado proporciona una referencia escrita para quienes busquen entender en profundidad los procesos de planificación, desarrollo y despliegue del proyecto en elaboración y corrección constante. |
 |Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Rodrigo Salvador** <br> TB1: En esta entrega se realizó el proceso de entrevistas en base a los segmentos objetivos seleccionados. Se comunicó oralmente a través de las personas entrevistadas nuestro objetivo y lo que esperamos hacer en el proyecto. <br> <br> **Piero Martinez** <br> TB1: Se logró mantener la comunicación constante del equipo, lo que permitió realizar las partes más importantes del proyecto en el tiempo establecido. <br> <br> **Alejandro Barturen** <br> TB1:Se realizo el proceso de defincion de estadisticas seleccionando una serie de preguntas que ayudara a comprender a fondo todos la informacion respecto a nuestros segemntos objetivos | Como equipo pudimos establecer medios de comunicación como las redes sociales, para lograr entregar un trabajo integral pese a la limitación de los plazos ajustados para los avances del proyecto. |
 
 
@@ -1679,6 +1685,8 @@ Link del Figma:[URL Figma](https://drive.google.com/file/d/156n7R81Imjf-ZzFIZ4j2
 
 ### **4.4.2. Web Applications Wireflow Diagrams**
 
+Link del Miro: [UserFlow](https://miro.com/welcomeonboard/SnNoUlJXZXcyQTM5THRNUlJJZGpER0hRZFRFNWsyZzN3WDdIZWtDa1Z6Nm44a1hxbDZOeWFWYTgySG9YSUREWHwzMDc0NDU3MzY3NDU3NTEwNTE1fDI=?share_link_id=823673647131)
+
 **User Goal: Registrarse como usuario**
 
 Al acceder al Login In o Join Us desde el landing page, este nos direccionará al log in o sign up, de acuerdo al botón que presione el usuario. Una vez creada la cuenta, volvemos al log in y accedemos con nuestra cuenta. Posteriormente, nos saldrán los planes a escoger, podemos seleccionar el gratuito incluso.
@@ -1725,11 +1733,39 @@ Además se pueden ver los apartados solicitados.
 
 
 ### **4.4.4. Web Applications User Flow Diagrams**
-<p align="center"> <img src="imgs/WebUserFlow.png"> </p>
+
+Link del Miro: [UserFlow](https://miro.com/welcomeonboard/SnNoUlJXZXcyQTM5THRNUlJJZGpER0hRZFRFNWsyZzN3WDdIZWtDa1Z6Nm44a1hxbDZOeWFWYTgySG9YSUREWHwzMDc0NDU3MzY3NDU3NTEwNTE1fDI=?share_link_id=823673647131)
+
+**User Goal: Registrarse como usuario**
+
+Al acceder al Login In o Join Us desde el landing page, este nos direccionará al log in o sign up, de acuerdo al botón que presione el usuario. Una vez creada la cuenta, volvemos al log in y accedemos con nuestra cuenta. Posteriormente, nos saldrán los planes a escoger, podemos seleccionar el gratuito incluso.
+
+<p align="center"> <img src="imgs/wireflowmockup1.png"> </p>
+
+**User Goal: Selección de Plan**
+
+Al seleccionar el plan gratuito, con esto accedemos a la página por dentro, en la que estamos en el apartado de summary como si fuera la del inicio.
+
+<p align="center"> <img src="imgs/wireflowmockup2.png"> </p>
+
+**User Goal: Selección de apartados en la sidebar**
+
+En la sidebar, podemos seleccionar los apartados de summary, parthner, workers y profile, cada uno tiene sus funciones propias de acuerdo al uso de las user stories propuestas.
+Además se pueden ver los apartados solicitados.
+
+<p align="center"> <img src="imgs/wireflowmockup3.png"> </p>
 
 ## **4.5. Web Applications Prototyping**
 
-<p align="center"> <img src="imgs/WebPrototyping.png"> </p>
+Para crear los prototipos de la interfaz de usuario para Desktop de EcoRoute, se siguieron varios criterios clave:
+
+**Claridad y Facilidad:** El objetivo principal fue asegurar que la navegación sea intuitiva y clara para los usuarios. Empresas de logística y manufactura podrán acceder fácilmente a información relevante para optimizar sus rutas de suministros, reducir costos y mejorar la sostenibilidad. La visualización de métricas clave como eficiencia de rutas y reducción de emisiones también fue diseñada para facilitar su comprensión.
+
+**Diseño Responsive:** Se priorizó un diseño "responsive" para garantizar que la plataforma sea accesible en una variedad de dispositivos, ya sea desde un ordenador de escritorio o un dispositivo móvil, sin perder funcionalidad ni calidad en la experiencia de usuario.
+
+**Priorización de Información Relevante:** El diseño está centrado en mostrar solo la información más importante para las empresas, como rutas optimizadas, costos, y métricas ambientales. Además, se facilita la toma de decisiones con indicadores clave para garantizar un impacto positivo en la eficiencia operativa y la reducción de la huella de carbono.
+
+<img src="imgs/landingpage.png" alt="Landing" style="width:100%;">
 
 ## **4.6. Domain-Driven Software Architecture**
 
@@ -1748,14 +1784,14 @@ El Domain Driven Design (DDD) busca crear un entendimiento común del dominio qu
 
 ## **4.7. Software Object-Oriented Design**
 ### **4.7.1. Class Diagrams**
-<p align="center"> <img src="imgs/ClassDiagram.png"> </p>
+<p align="center"> <img src="imgs/diagramadeclase.png"> </p>
 
 ### **4.7.2. Class Dictionary**
 Según el diagrama de clases, aquí se presenta el significado de cada clase y atributo:
 
 ## **4.8. Database Design**
 ### **4.8.1. Database Diagram**
-<p align="center"> <img src="imgs/DataBaseDiagram.png"> </p>
+<p align="center"> <img src="imgs/diagramadeflujo.png"> </p>
 
 # <font color="red">**Capítulo V: Product Implementation, Validation & Deployment**</font>
 
@@ -2451,6 +2487,333 @@ Durante este sprint se llevó a cabo la implementación de la landing page. Los 
 <p align="center"> <img src="imgs/Colaborattion2.png"> </p>
 
 <p align="center"> <img src="imgs/Colaborattion3.png"> </p>
+
+
+## **5.2.2. Sprint 2**
+
+Para este Sprint 2 hemos tratado de avanzar los task pendientes con relación al Sprint 1, e ir modificando de mejor manera para el avance de nuestro proyecto.
+
+### **5.2.1.1. Sprint Planning 1**
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024-09-22</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>11:30 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Discord</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Rodrigo Salvador/td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                Alejandro Barturen,  Rodrigo Salvador
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint n Review Summary</td>
+            <td>
+                Corrección y mejora de los puntos de la TB1 en cada uno de sus capítulos. Se empezó con el desarrollo del despliegue del landing page y del web application.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint n Retrospective Summary</td>
+            <td>
+                En esta oportunidad se toma en cuenta el sacrificio de las personas pese a la falta de comunicación y trabajo en equipo, para tratar de sacar adelante este proyecto.
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint n Goal</td>
+            <td>
+                Elaboración del Sprint 2, Correción de los Capítulos  I, II, III, IV
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint n Velocity</td>
+            <td>
+                -
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                -
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+### **5.2.1.2. Sprint Backlog 1**
+
+<img alt="image" src="imgs/SprintBacklog2.png">
+
+Para esta entrega se distribuyeron otras 4 user stories para poder avanzar al ritmo del proyecto y de los integrantes.
+
+<table>
+    <thead>
+  <thead>
+    <tr>
+        <th>Sprint #</th>
+        <th colspan="7">Sprint 2</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">WorkItem / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status(To-do/In-Process/To-Review/Done)</th>
+    </tr>
+    <tr>
+        <td rowspan="1">US04</td>
+        <td rowspan="1">Análisis de Costos de Suministro</td>
+        <td>UT04</td>
+        <td>Análisis de costos</td>
+        <td>Apartado en donde se puede analizar los costos y la inversión realizada.</td>
+        <td>5</td>
+        <td>Rodrigo Salvador</td>
+        <td>In-Process</td>
+    </tr>
+      <tr>
+        <td rowspan="1">US07</td>
+        <td rowspan="1">Reportes de Oportunidad de Mejora</td>
+        <td>UT07</td>
+        <td>Reportes de Oportunidad</td>
+        <td>Se recibe comunicados mensuales acerca de oportunidades de mejora.</td>
+        <td>6</td>
+        <td>Rodrigo Salvador</td>
+        <td>To-do</td>
+    </tr>
+     <tr>
+        <td rowspan="1">US11</td>
+        <td rowspan="1">Registro de Operarios</td>
+        <td>UT11</td>
+        <td>Registro de Operarios</td>
+        <td>Registra a aquellas personas que desees contar en la gestión de manufactura.</td>
+        <td>6</td>
+        <td>Rodrigo Salvador</td>
+        <td>In-Process</td>
+    </tr>
+    <tr>
+        <td rowspan="1">US14</td>
+        <td rowspan="1">Evaluación de Proveedores</td>
+        <td>UT14</td>
+        <td>Parthner</td>
+        <td>Dar reseñas y comentarios personales acerca de los proveedores en base a tu experiencia.</td>
+        <td>4</td>
+        <td>Rodrigo Salvador</td>
+        <td>To-Review</td>
+    </tr>
+  </thead>
+    </thead>
+</table>
+
+Link del trello: [Sprint Backlog 2]((https://trello.com/invite/b/66f3f19d834fa642e89d078a/ATTI71b8e33e3ef25b6d0e7ef6dbbd009f847C884B56/sprint-backlog-2))
+
+### **5.2.1.3. Development Evidence for Sprint Review**
+La evidencia del desarrollo del sprint refleja el progreso alcanzado en la implementación de las funcionalidades planificadas, asegurando que los objetivos establecidos fueran cumplidos de manera efectiva. Se trabajó en optimizar cada componente, garantizando una alineación con los requerimientos del proyecto. A continuación, se presentan capturas de pantalla que documentan los avances realizados durante el sprint.
+
+<p align="center"> <img src="imgs/DevelopmentEvidence1.png"> </p>
+
+<p align="center"> <img src="imgs/DevelopmentEvidence2.png"> </p>
+
+<p align="center"> <img src="imgs/DevelopmentEvidence3.png"> </p>
+
+### **5.2.1.4. Testing Suite Evidence for Sprint Review**
+Debido a la falta de clases y las relaciones entre ellas, ni las pruebas de unidad ni las pruebas de integración se han generado para este sprint 1. Sin embargo, si se pueden realizar pruebas de aceptación para los requisitos planteados.
+
+### US01
+ ```gherkin
+Feature: Solicitud de Información
+
+  Scenario: Envío exitoso de mensaje
+    Given Soy un visitante de la landing page
+    When Ingreso mi información y pregunta en el formulario de contacto
+    And Envío el mensaje
+    Then La información es enviada correctamente a los desarrolladores
+
+    Examples:
+      | Información           | Pregunta               |
+      | "Juan Pérez, email@ejemplo.com" | "¿Cómo puedo beneficiarme con esta plataforma?" |
+      | "Ana López, ana@correo.com"    | "¿Cuáles son los planes de precios?"              |
+
+  Scenario: Error en el envío de la información
+    Given Soy un visitante de la landing page
+    When Ingreso mi información y pregunta en el formulario de contacto
+    And Intento enviar el mensaje
+    Then Recibo un mensaje de error y se me sugiere intentar de nuevo más tarde
+
+    Examples:
+      | Información           | Pregunta               |
+      | "Pedro Martínez, pedro@correo.com" | "¿Hay una versión demo?"              |
+      | "María Gómez, maria@correo.com"   | "¿Cuál es el soporte técnico?"        |
+
+ ```
+
+### US02
+ ```gherkin
+Feature: Acceso rápido a información clave
+
+  Scenario: Encontrar rápidamente información clave
+    Given Estoy en la landing page
+    When Navego por la página
+    Then Veo los puntos destacados en la parte superior
+
+    Examples:
+      | Sección                |
+      | "Beneficios de la plataforma" |
+      | "Características principales" |
+
+  Scenario: No encuentro información clave
+    Given Estoy en la landing page
+    When Navego por la página
+    Then No puedo encontrar los puntos destacados
+
+    Examples:
+      | Sección                |
+      | "Sección no disponible" |
+      | "Enlace roto"           |
+
+ ```
+
+### US03
+ ```gherkin
+Feature: Redirección a la plataforma
+
+  Scenario: Redirección exitosa a la plataforma
+    Given Estoy en la landing page
+    When Hago clic en el logo de la plataforma
+    Then Soy redirigido a la página de inicio de la plataforma
+
+    Examples:
+      | Enlace                  |
+      | "Logo de la plataforma"  |
+      | "Botón 'Ir a la plataforma'" |
+
+  Scenario: Error en la redirección
+    Given Estoy en la landing page
+    When Hago clic en un enlace roto o inactivo
+    Then Recibo un mensaje de error y se me sugiere intentar de nuevo más tarde o contactar al soporte
+
+    Examples:
+      | Enlace                  |
+      | "Logo inactivo"          |
+      | "Botón 'Ir a la plataforma' roto" |
+
+
+ ```
+
+### US06
+ ```gherkin
+Feature: Alertas de Inventario Bajo
+
+  Scenario: Alerta de inventario bajo
+    Given Hay un nivel mínimo de inventario definido
+    When El stock cae por debajo de este nivel
+    Then Se envía automáticamente una alerta
+
+    Examples:
+      | Producto       | Nivel mínimo |
+      | "Producto A"   | 100 unidades |
+      | "Producto B"   | 50 unidades  |
+
+  Scenario: Confirmación de recepción de la alerta
+    Given He recibido una alerta de inventario bajo
+    When Abro la notificación
+    Then Confirmo que he recibido la alerta y tomo acción
+
+    Examples:
+      | Producto       | Acciones tomadas         |
+      | "Producto A"   | "Reordenar stock"        |
+      | "Producto B"   | "Aumentar producción"    |
+
+ ```
+
+### US08
+ ```gherkin
+Feature: Chat de Comunicación Interna
+
+  Scenario: Acceso y uso del chat
+    Given Estoy en la plataforma
+    When Accedo al chat
+    Then Puedo enviar y recibir mensajes en tiempo real a cualquier miembro de la empresa
+
+    Examples:
+      | Usuario        | Mensaje                 |
+      | "Gerente A"    | "Reunión mañana a las 10" |
+      | "Empleado B"   | "Necesito más materiales" |
+
+  Scenario: Notificaciones de nuevos mensajes
+    Given Estoy fuera del chat
+    When Recibo un nuevo mensaje
+    Then Recibo una notificación en la plataforma
+
+    Examples:
+      | Usuario        | Notificación             |
+      | "Gerente A"    | "Nuevo mensaje de la sala de producción" |
+      | "Empleado B"   | "Nuevo mensaje del supervisor"           |
+
+ ```
+
+### **5.2.1.5. Execution Evidence for Sprint Review**
+Durante el primer sprint se trabajó en el diseño y desarrollo de la Landing Page, enfocándose en una interfaz atractiva y funcional que facilite la navegación y comprensión del servicio. Se priorizó la usabilidad y claridad del contenido para mejorar la experiencia del usuario. A continuación, se muestran capturas de pantalla como evidencia del avance logrado en esta etapa.
+
+<p align="center"> <img src="imgs/ExecutionEvidence1.png"> </p>
+
+<p align="center"> <img src="imgs/ExecutionEvidence2.png"> </p>
+
+<p align="center"> <img src="imgs/ExecutionEvidence3.png"> </p>
+
+### **5.2.1.6. Services Documentation Evidence for Sprint Review**
+> [!NOTE]
+> No aplica para esta entrega.
+
+### **5.2.1.7. Software Deployment Evidence for Sprint Review**
+La evidencia del correcto despliegue de la landing page se presenta a través de una serie de capturas de pantalla que muestran el proceso completo, desde la configuración inicial hasta la publicación final, asegurando que todos los componentes funcionan conforme a lo planificado. Estas imágenes documentan paso a paso la implementación y validación del despliegue, garantizando una experiencia óptima para los usuarios.
+
+<p align="center"> <img src="imgs/SoftwareDeploymentEvidence1.png"> </p>
+
+<p align="center"> <img src="imgs/SoftwareDeploymentEvidence2.png"> </p>
+
+<p align="center"> <img src="imgs/SoftwareDeploymentEvidence3.png"> </p>
+
+### **5.2.1.8. Team Collaboration Insights during Sprint**
+Durante este sprint se llevó a cabo la implementación de la landing page. Los miembros del equipo contribuyeron activamente al proyecto, realizando sus aportes mediante commits registrados en la herramienta GitHub, lo que permitió un trabajo colaborativo eficiente y controlado en el desarrollo del sprint. A continuación, se presenta capturas de pantalla del mismo:
+
+<p align="center"> <img src="imgs/Colaborattion1.png"> </p>
+
+<p align="center"> <img src="imgs/Colaborattion2.png"> </p>
+
+<p align="center"> <img src="imgs/Colaborattion3.png"> </p>
+
+
 
 # **Conclusiones y recomendaciones**
 El primer sprint de EcoRoute ha sido un paso crucial en la construcción de nuestra plataforma para optimizar cadenas de suministro sostenibles. Durante esta fase, el equipo se centró en el desarrollo de la landing page, que ha permitido establecer una base sólida para la presentación y promoción de la aplicación. A partir del trabajo realizado hasta ahora, se han identificado dos puntos clave:
