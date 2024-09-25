@@ -2533,7 +2533,7 @@ Durante este sprint se llevó a cabo la implementación de la landing page. Los 
 
 Para este Sprint 2 hemos tratado de avanzar los task pendientes con relación al Sprint 1, e ir modificando de mejor manera para el avance de nuestro proyecto.
 
-### **5.2.1.1. Sprint Planning 1**
+### **5.2.1.1. Sprint Planning 2**
 
 <table>
     <thead>
@@ -2604,7 +2604,7 @@ Para este Sprint 2 hemos tratado de avanzar los task pendientes con relación al
     </tbody>
 </table>
 
-### **5.2.1.2. Sprint Backlog 1**
+### **5.2.1.2. Sprint Backlog 2**
 
 <img alt="image" src="imgs/SprintBacklog2.png">
 
@@ -2677,7 +2677,7 @@ Para esta entrega se distribuyeron otras 4 user stories para poder avanzar al ri
 
 Link del trello:[Sprint Backlog 2](https://trello.com/invite/b/66f3f19d834fa642e89d078a/ATTI71b8e33e3ef25b6d0e7ef6dbbd009f847C884B56/sprint-backlog-2)
 
-### **5.2.1.3. Development Evidence for Sprint Review**
+### **5.2.2.3. Development Evidence for Sprint Review**
 La evidencia del desarrollo del sprint refleja el progreso alcanzado en la implementación de las funcionalidades planificadas, asegurando que los objetivos establecidos fueran cumplidos de manera efectiva. Se trabajó en optimizar cada componente, garantizando una alineación con los requerimientos del proyecto. A continuación, se presentan capturas de pantalla que documentan los avances realizados durante el sprint.
 
 <p align="center"> <img src="imgs/DevelopmentEvidence1.png"> </p>
@@ -2686,7 +2686,7 @@ La evidencia del desarrollo del sprint refleja el progreso alcanzado en la imple
 
 <p align="center"> <img src="imgs/DevelopmentEvidence3.png"> </p>
 
-### **5.2.1.4. Testing Suite Evidence for Sprint Review**
+### **5.2.2.4. Testing Suite Evidence for Sprint Review**
 Debido a la falta de clases y las relaciones entre ellas, ni las pruebas de unidad ni las pruebas de integración se han generado para este sprint 2. Sin embargo, si se pueden realizar pruebas de aceptación para los requisitos planteados.
 
 ### US04
@@ -2788,7 +2788,7 @@ Feature: Evaluación de Proveedores
  ```
 
 
-### **5.2.1.5. Execution Evidence for Sprint Review**
+### **5.2.2.5. Execution Evidence for Sprint Review**
 Durante el primer sprint se trabajó en el diseño y desarrollo de la Landing Page, enfocándose en una interfaz atractiva y funcional que facilite la navegación y comprensión del servicio. Se priorizó la usabilidad y claridad del contenido para mejorar la experiencia del usuario. A continuación, se muestran capturas de pantalla como evidencia del avance logrado en esta etapa.
 
 <p align="center"> <img src="imgs/ExecutionEvidence1.png"> </p>
@@ -2797,11 +2797,11 @@ Durante el primer sprint se trabajó en el diseño y desarrollo de la Landing Pa
 
 <p align="center"> <img src="imgs/ExecutionEvidence3.png"> </p>
 
-### **5.2.1.6. Services Documentation Evidence for Sprint Review**
+### **5.2.2.6. Services Documentation Evidence for Sprint Review**
 > [!NOTE]
 > No aplica para esta entrega.
 
-### **5.2.1.7. Software Deployment Evidence for Sprint Review**
+### **5.2.2.7. Software Deployment Evidence for Sprint Review**
 La evidencia del correcto despliegue de la landing page se presenta a través de una serie de capturas de pantalla que muestran el proceso completo, desde la configuración inicial hasta la publicación final, asegurando que todos los componentes funcionan conforme a lo planificado. Estas imágenes documentan paso a paso la implementación y validación del despliegue, garantizando una experiencia óptima para los usuarios.
 
 <p align="center"> <img src="imgs/SoftwareDeploymentEvidence1.png"> </p>
@@ -2810,7 +2810,7 @@ La evidencia del correcto despliegue de la landing page se presenta a través de
 
 <p align="center"> <img src="imgs/SoftwareDeploymentEvidence3.png"> </p>
 
-### **5.2.1.8. Team Collaboration Insights during Sprint**
+### **5.2.2.8. Team Collaboration Insights during Sprint**
 Durante este sprint se llevó a cabo la implementación del frontend, además del despliegue de la landing page y web application. Algunos miembros del equipo contribuyeron con el proyecto, realizando sus aportes y commits en Github, lo que permitió un trabajo más realista y detallado de los avances de cada integrante del equipo.
 
 <p align="center"> <img src="imgs/Colaborattion1.png"> </p>
