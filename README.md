@@ -2038,18 +2038,20 @@ Se usaron las siguientes source style y conventions para el desarrollo de landin
 En esta seccion, se tratara de explicar el procedimiento de despliege de nuestros proyectos como LandingPage, Backend y FrontEnd.
 
 ### LandingPage
-Para el despliege de nuestra landing page se escogio Git Page siendo una alternativa facil de usar y de configurar.
-* **Paso 1:** Para desplegar el landingPage hay que dirigirse al repositorio del landingPage y luego entrar a la opcion settings.
+Para el despliege de nuestra landing page se escogio Netlify siendo una alternativa facil de usar y de configurar.
+* **Paso 1:** Para desplegar el landingPage hay que seleccionar en "new site from git".
 <p align="center"> <img src="imgs/despliegueLanding1.png"> </p>
 
-* **Paso 2:** Ahora entraremos a la opcion de Pages donde seleccionaremos la rama que del proyecto que queremos desplegar.
+* **Paso 2:** Ahora seleccionamos el proveedor que en este caso sería Github importando un proyecto existente.
 <p align="center"> <img src="imgs/despliegueLanding2.png"> </p>
 
-* **Paso 3:** Es asi como debe quedar la seleccion de la rama
+* **Paso 3:** Concedemos permisos para acceder a los repositorios
 <p align="center"> <img src="imgs/despliegueLanding3.png"> </p>
 
-* **Paso 4:** Luego de esperar unos minutos la pagina del LandingPage se desplegara y aparecera la opcion de acceder a esta misma
+* **Paso 4:** Le colocamos un nombre y deployamos el landing page.
 <p align="center"> <img src="imgs/despliegueLanding4.png"> </p>
+
+<p align="center"> <img src="imgs/despliegueLanding5.png"> </p>
 
 
 ## **5.2. Landing Page, Services & Applications Implementation**
