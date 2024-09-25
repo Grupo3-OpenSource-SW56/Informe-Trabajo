@@ -155,13 +155,13 @@
     </tr>
     <tr>
         <td>1.18</td>
-        <td>05/09/2024</td>
+        <td>25/09/2024</td>
         <td>Alejandro Alberto Pachas Chavez - U201917598</td>
         <td>Internacionalización del Landing Page </td>
     </tr>
     <tr>
         <td>1.19</td>
-        <td>05/09/2024</td>
+        <td>25/09/2024</td>
         <td>Alejandro Alberto Pachas Chavez - U201917598</td>
         <td>Creación del diagrama para la base de datos</td>
     </tr>
